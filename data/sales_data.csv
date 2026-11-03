@@ -1,0 +1,1201 @@
+﻿order_id,order_date,product,category,region,sales_channel,quantity,unit_price,unit_cost,discount_rate
+SIP-00001,2025-07-12,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,130,64,0.1
+SIP-00002,2025-11-12,Kulaklık,Elektronik,Ege,Online,4,1850,1120,0.1
+SIP-00003,2025-09-15,Sırt Çantası,Yaşam,İç Anadolu,Mağaza,2,1550,890,0
+SIP-00004,2025-12-20,Ajanda,Kırtasiye,İç Anadolu,Online,4,378.0,181,0.1
+SIP-00005,2025-12-11,Atıştırmalık,Gıda,Güneydoğu Anadolu,Online,1,99.75,51,0
+SIP-00006,2025-01-19,Sırt Çantası,Yaşam,Doğu Anadolu,Mağaza,1,1472.5,890,0
+SIP-00007,2025-11-02,Çalışma Masası,Mobilya,Doğu Anadolu,Mağaza,2,7790.0,5780,0.1
+SIP-00008,2025-08-21,Suluk,Yaşam,Karadeniz,Mağaza,2,320,145,0.2
+SIP-00009,2025-03-29,Sırt Çantası,Yaşam,İç Anadolu,Online,2,1550,890,0
+SIP-00010,2025-07-02,Akıllı Saat,Elektronik,Ege,Mağaza,2,4655.0,3170,0
+SIP-00011,2025-10-10,Defter,Kırtasiye,Marmara,Pazaryeri,1,130,64,0.05
+SIP-00012,2025-04-06,Defter,Kırtasiye,Akdeniz,Online,2,130,64,0.2
+SIP-00013,2025-11-10,Kahve,Gıda,İç Anadolu,Online,2,294.5,170,0
+SIP-00014,2025-05-17,Defter,Kırtasiye,Marmara,Mağaza,1,123.5,64,0
+SIP-00015,2025-09-23,Termos,Yaşam,İç Anadolu,Mağaza,1,780,410,0.1
+SIP-00016,2025-10-24,Suluk,Yaşam,Güneydoğu Anadolu,Mağaza,3,320,145,0
+SIP-00017,2025-04-06,Kalem Seti,Kırtasiye,Doğu Anadolu,Pazaryeri,2,283.5,125,0.1
+SIP-00018,2025-06-29,Ofis Sandalyesi,Mobilya,Marmara,Mağaza,3,6700,4400,0.1
+SIP-00019,2025-03-07,Çay,Gıda,Karadeniz,Online,1,180,89,0
+SIP-00020,2025-04-24,Ofis Sandalyesi,Mobilya,Karadeniz,Pazaryeri,1,6700,4400,0.15
+SIP-00021,2025-11-03,Termos,Yaşam,İç Anadolu,Online,1,780,410,0
+SIP-00022,2025-01-25,Kitaplık,Mobilya,İç Anadolu,Online,5,3250,2190,0.1
+SIP-00023,2025-07-26,Çay,Gıda,İç Anadolu,Pazaryeri,2,180,89,0.05
+SIP-00024,2025-10-27,Laptop,Elektronik,Akdeniz,Online,4,28025.0,22900,0.05
+SIP-00025,2025-09-23,Çay,Gıda,Doğu Anadolu,Pazaryeri,2,180,89,0
+SIP-00026,2025-09-24,Laptop,Elektronik,Güneydoğu Anadolu,Pazaryeri,2,29500,22900,0.2
+SIP-00027,2025-04-03,Çalışma Masası,Mobilya,Akdeniz,Mağaza,3,8200,5780,0.05
+SIP-00028,2025-10-24,Kalem Seti,Kırtasiye,Karadeniz,Online,1,256.5,125,0.15
+SIP-00029,2025-01-01,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,3,270,125,0
+SIP-00030,2025-12-19,Kahve,Gıda,Marmara,Pazaryeri,1,310,170,0.05
+SIP-00031,2025-08-17,Termos,Yaşam,Karadeniz,Pazaryeri,2,780,410,0
+SIP-00032,2025-08-24,Çay,Gıda,Akdeniz,Pazaryeri,1,180,89,0.1
+SIP-00033,2025-02-26,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,1,8200,5780,0
+SIP-00034,2025-03-02,Kitaplık,Mobilya,İç Anadolu,Mağaza,1,3087.5,2190,0.2
+SIP-00035,2025-10-07,Çalışma Masası,Mobilya,Doğu Anadolu,Mağaza,3,8200,5780,0
+SIP-00036,2025-07-25,Defter,Kırtasiye,Marmara,Mağaza,4,130,64,0.05
+SIP-00037,2025-11-28,Çay,Gıda,Doğu Anadolu,Mağaza,2,180,89,0
+SIP-00038,2025-07-02,Çalışma Masası,Mobilya,Doğu Anadolu,Mağaza,3,8200,5780,0.1
+SIP-00039,2025-05-27,Çay,Gıda,Akdeniz,Pazaryeri,2,180,89,0
+SIP-00040,2025-07-24,Atıştırmalık,Gıda,Marmara,Online,1,95,51,0
+SIP-00041,2025-06-24,Suluk,Yaşam,Doğu Anadolu,Online,2,320,145,0
+SIP-00042,2025-09-13,Çay,Gıda,Akdeniz,Pazaryeri,4,180,89,0
+SIP-00043,2025-03-15,Kalem Seti,Kırtasiye,Karadeniz,Pazaryeri,2,270,125,0.1
+SIP-00044,2025-07-19,Kalem Seti,Kırtasiye,İç Anadolu,Mağaza,3,270,125,0
+SIP-00045,2025-04-10,Termos,Yaşam,Akdeniz,Online,1,780,410,0.05
+SIP-00046,2025-08-02,Defter,Kırtasiye,Marmara,Pazaryeri,1,130,64,0
+SIP-00047,2025-09-05,Kalem Seti,Kırtasiye,Ege,Pazaryeri,5,283.5,125,0.05
+SIP-00048,2025-07-01,Kulaklık,Elektronik,Güneydoğu Anadolu,Mağaza,3,1757.5,1120,0.1
+SIP-00049,2025-08-02,Laptop,Elektronik,Ege,Mağaza,1,28025.0,22900,0
+SIP-00050,2025-01-21,Suluk,Yaşam,Marmara,Pazaryeri,4,320,145,0
+SIP-00051,2025-05-07,Atıştırmalık,Gıda,Marmara,Mağaza,1,95,51,0
+SIP-00052,2025-07-28,Ajanda,Kırtasiye,Doğu Anadolu,Online,2,360,181,0
+SIP-00053,2025-08-10,Çay,Gıda,Marmara,Online,2,180,89,0.05
+SIP-00054,2025-06-22,Ofis Sandalyesi,Mobilya,Marmara,Mağaza,1,6700,4400,0
+SIP-00055,2025-07-16,Kitaplık,Mobilya,Karadeniz,Pazaryeri,3,3412.5,2190,0.15
+SIP-00056,2025-12-17,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,3,1550,890,0.05
+SIP-00057,2025-08-24,Suluk,Yaşam,Akdeniz,Mağaza,2,320,145,0.1
+SIP-00058,2025-04-02,Laptop,Elektronik,Marmara,Online,2,29500,22900,0
+SIP-00059,2025-08-12,Laptop,Elektronik,Doğu Anadolu,Mağaza,4,29500,22900,0.15
+SIP-00060,2025-08-07,Suluk,Yaşam,Ege,Mağaza,2,320,145,0.05
+SIP-00061,2025-11-15,Çay,Gıda,Güneydoğu Anadolu,Pazaryeri,3,180,89,0.1
+SIP-00062,2025-04-23,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,1,8610.0,5780,0.15
+SIP-00063,2025-10-26,Suluk,Yaşam,Güneydoğu Anadolu,Mağaza,1,320,145,0.05
+SIP-00064,2025-01-25,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Online,2,4900,3170,0
+SIP-00065,2025-02-27,Akıllı Saat,Elektronik,Akdeniz,Pazaryeri,1,4900,3170,0.1
+SIP-00066,2025-12-02,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,2,6700,4400,0.1
+SIP-00067,2025-11-13,Laptop,Elektronik,Ege,Online,2,29500,22900,0.1
+SIP-00068,2025-07-16,Çay,Gıda,Karadeniz,Mağaza,2,171.0,89,0
+SIP-00069,2025-03-10,Akıllı Saat,Elektronik,İç Anadolu,Mağaza,1,4900,3170,0.15
+SIP-00070,2025-10-27,Atıştırmalık,Gıda,Ege,Online,1,99.75,51,0.05
+SIP-00071,2025-07-14,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,342.0,181,0.05
+SIP-00072,2025-04-16,Ajanda,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,342.0,181,0
+SIP-00073,2025-03-28,Sırt Çantası,Yaşam,Karadeniz,Pazaryeri,2,1627.5,890,0.05
+SIP-00074,2025-07-07,Kitaplık,Mobilya,Karadeniz,Online,1,3250,2190,0.15
+SIP-00075,2025-10-09,Termos,Yaşam,Güneydoğu Anadolu,Mağaza,2,780,410,0.15
+SIP-00076,2025-10-12,Termos,Yaşam,İç Anadolu,Mağaza,1,741.0,410,0
+SIP-00077,2025-08-01,Çalışma Masası,Mobilya,Karadeniz,Online,1,8200,5780,0.1
+SIP-00078,2025-12-07,Termos,Yaşam,Akdeniz,Pazaryeri,1,780,410,0
+SIP-00079,2025-04-11,Kahve,Gıda,Marmara,Online,1,294.5,170,0.1
+SIP-00080,2025-12-26,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,1,283.5,125,0
+SIP-00081,2025-04-27,Suluk,Yaşam,Akdeniz,Online,1,320,145,0
+SIP-00082,2025-01-17,Kitaplık,Mobilya,Marmara,Pazaryeri,1,3250,2190,0
+SIP-00083,2025-10-18,Suluk,Yaşam,İç Anadolu,Online,1,336.0,145,0
+SIP-00084,2025-05-17,Çalışma Masası,Mobilya,Marmara,Pazaryeri,2,7790.0,5780,0.05
+SIP-00085,2025-04-22,Laptop,Elektronik,Karadeniz,Pazaryeri,1,29500,22900,0.05
+SIP-00086,2025-05-02,Atıştırmalık,Gıda,Doğu Anadolu,Online,4,95,51,0
+SIP-00087,2025-04-13,Suluk,Yaşam,Akdeniz,Pazaryeri,1,320,145,0.15
+SIP-00088,2025-02-07,Termos,Yaşam,Marmara,Online,1,780,410,0.05
+SIP-00089,2025-05-27,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,283.5,125,0.15
+SIP-00090,2025-09-02,Defter,Kırtasiye,Ege,Online,1,130,64,0.1
+SIP-00091,2025-12-31,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,2,270,125,0.1
+SIP-00092,2025-11-25,Laptop,Elektronik,İç Anadolu,Online,3,28025.0,22900,0.2
+SIP-00093,2025-06-07,Kahve,Gıda,Karadeniz,Online,1,310,170,0.1
+SIP-00094,2025-05-30,Defter,Kırtasiye,Marmara,Mağaza,2,130,64,0
+SIP-00095,2025-08-21,Kulaklık,Elektronik,Güneydoğu Anadolu,Pazaryeri,1,1757.5,1120,0.05
+SIP-00096,2025-12-26,Termos,Yaşam,Karadeniz,Online,2,819.0,410,0
+SIP-00097,2025-01-04,Kahve,Gıda,Doğu Anadolu,Pazaryeri,3,310,170,0
+SIP-00098,2025-08-19,Çay,Gıda,İç Anadolu,Online,5,189.0,89,0.05
+SIP-00099,2025-11-15,Defter,Kırtasiye,Doğu Anadolu,Mağaza,2,123.5,64,0.2
+SIP-00100,2025-12-03,Ajanda,Kırtasiye,Karadeniz,Pazaryeri,3,378.0,181,0
+SIP-00101,2025-11-21,Kahve,Gıda,Marmara,Pazaryeri,1,294.5,170,0.2
+SIP-00102,2025-06-29,Çay,Gıda,Doğu Anadolu,Pazaryeri,2,180,89,0
+SIP-00103,2025-12-08,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,2,1627.5,890,0.1
+SIP-00104,2025-08-06,Kalem Seti,Kırtasiye,Marmara,Mağaza,2,256.5,125,0.1
+SIP-00105,2025-01-04,Kalem Seti,Kırtasiye,Karadeniz,Mağaza,1,270,125,0
+SIP-00106,2025-08-05,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,3,1472.5,890,0.15
+SIP-00107,2025-11-11,Kulaklık,Elektronik,Karadeniz,Online,2,1850,1120,0.15
+SIP-00108,2025-08-12,Sırt Çantası,Yaşam,Karadeniz,Online,1,1550,890,0
+SIP-00109,2025-02-16,Laptop,Elektronik,Ege,Pazaryeri,1,29500,22900,0.1
+SIP-00110,2025-04-16,Ajanda,Kırtasiye,İç Anadolu,Online,1,378.0,181,0
+SIP-00111,2025-12-07,Kalem Seti,Kırtasiye,Marmara,Online,2,283.5,125,0
+SIP-00112,2025-07-16,Suluk,Yaşam,Marmara,Online,1,320,145,0.1
+SIP-00113,2025-04-29,Kulaklık,Elektronik,Karadeniz,Mağaza,1,1850,1120,0
+SIP-00114,2025-07-26,Kahve,Gıda,Doğu Anadolu,Pazaryeri,5,294.5,170,0
+SIP-00115,2025-01-27,Defter,Kırtasiye,Ege,Pazaryeri,2,136.5,64,0
+SIP-00116,2025-02-16,Sırt Çantası,Yaşam,Marmara,Pazaryeri,2,1550,890,0
+SIP-00117,2025-01-04,Laptop,Elektronik,Doğu Anadolu,Mağaza,2,29500,22900,0.1
+SIP-00118,2025-09-11,Termos,Yaşam,Ege,Pazaryeri,1,780,410,0.15
+SIP-00119,2025-05-18,Kulaklık,Elektronik,Marmara,Mağaza,1,1850,1120,0.15
+SIP-00120,2025-02-09,Ofis Sandalyesi,Mobilya,Karadeniz,Mağaza,4,6700,4400,0.15
+SIP-00121,2025-11-23,Akıllı Saat,Elektronik,Ege,Mağaza,1,5145.0,3170,0.05
+SIP-00122,2025-07-07,Laptop,Elektronik,Doğu Anadolu,Online,4,29500,22900,0
+SIP-00123,2025-08-02,Kalem Seti,Kırtasiye,Ege,Mağaza,2,270,125,0.05
+SIP-00124,2025-06-16,Sırt Çantası,Yaşam,İç Anadolu,Mağaza,4,1550,890,0.1
+SIP-00125,2025-05-29,Ajanda,Kırtasiye,Karadeniz,Online,1,360,181,0.15
+SIP-00126,2025-01-19,Kalem Seti,Kırtasiye,Marmara,Mağaza,1,270,125,0
+SIP-00127,2025-02-02,Defter,Kırtasiye,Marmara,Mağaza,2,123.5,64,0.15
+SIP-00128,2025-06-28,Akıllı Saat,Elektronik,Akdeniz,Pazaryeri,1,4900,3170,0
+SIP-00129,2025-10-11,Çay,Gıda,Ege,Pazaryeri,1,171.0,89,0
+SIP-00130,2025-06-30,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Pazaryeri,3,4655.0,3170,0
+SIP-00131,2025-01-29,Çay,Gıda,İç Anadolu,Mağaza,1,189.0,89,0.05
+SIP-00132,2025-02-07,Suluk,Yaşam,Ege,Pazaryeri,3,320,145,0.1
+SIP-00133,2025-09-15,Çay,Gıda,Doğu Anadolu,Pazaryeri,2,180,89,0.2
+SIP-00134,2025-02-18,Çay,Gıda,Güneydoğu Anadolu,Online,4,180,89,0.1
+SIP-00135,2025-01-16,Kahve,Gıda,Marmara,Mağaza,1,310,170,0
+SIP-00136,2025-05-13,Atıştırmalık,Gıda,Karadeniz,Online,5,95,51,0
+SIP-00137,2025-04-23,Akıllı Saat,Elektronik,Ege,Pazaryeri,1,4655.0,3170,0.05
+SIP-00138,2025-02-26,Atıştırmalık,Gıda,Akdeniz,Online,2,95,51,0
+SIP-00139,2025-11-04,Ofis Sandalyesi,Mobilya,İç Anadolu,Online,1,6700,4400,0.05
+SIP-00140,2025-07-25,Laptop,Elektronik,Akdeniz,Pazaryeri,1,30975.0,22900,0.1
+SIP-00141,2025-03-18,Defter,Kırtasiye,İç Anadolu,Online,4,130,64,0
+SIP-00142,2025-03-24,Laptop,Elektronik,Doğu Anadolu,Mağaza,3,30975.0,22900,0.05
+SIP-00143,2025-09-24,Laptop,Elektronik,Marmara,Mağaza,2,28025.0,22900,0.05
+SIP-00144,2025-12-29,Defter,Kırtasiye,Akdeniz,Online,1,123.5,64,0.15
+SIP-00145,2025-07-11,Kalem Seti,Kırtasiye,Ege,Online,1,283.5,125,0
+SIP-00146,2025-12-27,Kulaklık,Elektronik,Güneydoğu Anadolu,Online,1,1757.5,1120,0
+SIP-00147,2025-08-30,Termos,Yaşam,Ege,Mağaza,2,741.0,410,0.1
+SIP-00148,2025-12-17,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,1,95,51,0
+SIP-00149,2025-08-18,Kahve,Gıda,Marmara,Pazaryeri,1,294.5,170,0
+SIP-00150,2025-11-21,Kahve,Gıda,İç Anadolu,Online,1,310,170,0
+SIP-00151,2025-10-04,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,4,342.0,181,0.05
+SIP-00152,2025-02-27,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Mağaza,3,270,125,0
+SIP-00153,2025-09-24,Atıştırmalık,Gıda,Marmara,Mağaza,4,95,51,0.15
+SIP-00154,2025-09-18,Kalem Seti,Kırtasiye,İç Anadolu,Pazaryeri,2,270,125,0
+SIP-00155,2025-02-26,Akıllı Saat,Elektronik,İç Anadolu,Online,4,4900,3170,0
+SIP-00156,2025-07-24,Ofis Sandalyesi,Mobilya,Karadeniz,Mağaza,1,6700,4400,0.1
+SIP-00157,2025-10-18,Çalışma Masası,Mobilya,Akdeniz,Online,4,7790.0,5780,0.05
+SIP-00158,2025-11-23,Ajanda,Kırtasiye,İç Anadolu,Mağaza,1,360,181,0
+SIP-00159,2025-09-21,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Pazaryeri,3,6700,4400,0
+SIP-00160,2025-07-17,Çalışma Masası,Mobilya,İç Anadolu,Pazaryeri,1,8200,5780,0
+SIP-00161,2025-12-16,Kalem Seti,Kırtasiye,Ege,Mağaza,1,270,125,0.1
+SIP-00162,2025-07-07,Kulaklık,Elektronik,Ege,Online,4,1850,1120,0
+SIP-00163,2025-07-19,Akıllı Saat,Elektronik,İç Anadolu,Pazaryeri,1,4900,3170,0
+SIP-00164,2025-05-09,Kahve,Gıda,Doğu Anadolu,Pazaryeri,1,310,170,0
+SIP-00165,2025-04-13,Suluk,Yaşam,İç Anadolu,Pazaryeri,1,320,145,0
+SIP-00166,2025-09-01,Atıştırmalık,Gıda,Ege,Mağaza,1,95,51,0
+SIP-00167,2025-05-26,Laptop,Elektronik,Karadeniz,Mağaza,1,28025.0,22900,0.05
+SIP-00168,2025-03-26,Ajanda,Kırtasiye,Güneydoğu Anadolu,Mağaza,3,342.0,181,0
+SIP-00169,2025-01-23,Defter,Kırtasiye,Doğu Anadolu,Pazaryeri,3,136.5,64,0.05
+SIP-00170,2025-12-30,Atıştırmalık,Gıda,Ege,Mağaza,2,95,51,0
+SIP-00171,2025-10-12,Kulaklık,Elektronik,İç Anadolu,Online,1,1850,1120,0.2
+SIP-00172,2025-05-22,Defter,Kırtasiye,Ege,Pazaryeri,3,136.5,64,0
+SIP-00173,2025-07-01,Atıştırmalık,Gıda,Güneydoğu Anadolu,Online,3,90.25,51,0
+SIP-00174,2025-11-10,Ofis Sandalyesi,Mobilya,Ege,Pazaryeri,3,6700,4400,0
+SIP-00175,2025-06-22,Çay,Gıda,Karadeniz,Mağaza,1,180,89,0
+SIP-00176,2025-01-10,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,1,1757.5,1120,0.05
+SIP-00177,2025-01-08,Defter,Kırtasiye,İç Anadolu,Mağaza,1,130,64,0.15
+SIP-00178,2025-07-07,Sırt Çantası,Yaşam,Karadeniz,Online,1,1472.5,890,0.05
+SIP-00179,2025-12-09,Ofis Sandalyesi,Mobilya,Karadeniz,Mağaza,4,6700,4400,0
+SIP-00180,2025-03-13,Ofis Sandalyesi,Mobilya,Akdeniz,Mağaza,1,6700,4400,0.1
+SIP-00181,2025-10-19,Ofis Sandalyesi,Mobilya,Akdeniz,Mağaza,3,6365.0,4400,0
+SIP-00182,2025-10-13,Kahve,Gıda,Akdeniz,Pazaryeri,4,310,170,0.1
+SIP-00183,2025-10-01,Termos,Yaşam,Karadeniz,Mağaza,3,741.0,410,0
+SIP-00184,2025-09-07,Kahve,Gıda,Güneydoğu Anadolu,Pazaryeri,1,310,170,0
+SIP-00185,2025-02-06,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,3,6700,4400,0.1
+SIP-00186,2025-04-03,Kalem Seti,Kırtasiye,Marmara,Online,1,270,125,0.1
+SIP-00187,2025-08-14,Ofis Sandalyesi,Mobilya,Karadeniz,Pazaryeri,2,6700,4400,0.1
+SIP-00188,2025-09-14,Akıllı Saat,Elektronik,Doğu Anadolu,Mağaza,1,4655.0,3170,0
+SIP-00189,2025-08-16,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,1,6700,4400,0.05
+SIP-00190,2025-03-15,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,2,1550,890,0
+SIP-00191,2025-09-21,Defter,Kırtasiye,Akdeniz,Pazaryeri,1,130,64,0.1
+SIP-00192,2025-11-18,Kulaklık,Elektronik,Ege,Mağaza,2,1850,1120,0.05
+SIP-00193,2025-04-22,Termos,Yaşam,İç Anadolu,Online,2,780,410,0.1
+SIP-00194,2025-03-07,Sırt Çantası,Yaşam,Ege,Mağaza,1,1550,890,0
+SIP-00195,2025-06-15,Laptop,Elektronik,Doğu Anadolu,Pazaryeri,1,29500,22900,0.05
+SIP-00196,2025-03-06,Kitaplık,Mobilya,Doğu Anadolu,Mağaza,1,3412.5,2190,0.1
+SIP-00197,2025-06-02,Defter,Kırtasiye,Doğu Anadolu,Online,1,136.5,64,0.05
+SIP-00198,2025-08-09,Kitaplık,Mobilya,Doğu Anadolu,Online,3,3250,2190,0.1
+SIP-00199,2025-09-13,Sırt Çantası,Yaşam,Doğu Anadolu,Online,1,1472.5,890,0.05
+SIP-00200,2025-08-19,Akıllı Saat,Elektronik,Marmara,Mağaza,1,4900,3170,0.1
+SIP-00201,2025-06-06,Defter,Kırtasiye,Marmara,Online,1,130,64,0.2
+SIP-00202,2025-04-24,Çay,Gıda,Karadeniz,Mağaza,3,180,89,0.2
+SIP-00203,2025-07-14,Defter,Kırtasiye,Akdeniz,Pazaryeri,2,130,64,0.1
+SIP-00204,2025-10-09,Akıllı Saat,Elektronik,Ege,Pazaryeri,2,4900,3170,0.2
+SIP-00205,2025-01-14,Kalem Seti,Kırtasiye,Akdeniz,Mağaza,2,283.5,125,0.05
+SIP-00206,2025-03-12,Ajanda,Kırtasiye,İç Anadolu,Online,3,378.0,181,0
+SIP-00207,2025-06-22,Suluk,Yaşam,Ege,Pazaryeri,3,320,145,0
+SIP-00208,2025-03-14,Laptop,Elektronik,Ege,Online,2,28025.0,22900,0
+SIP-00209,2025-05-13,Kitaplık,Mobilya,İç Anadolu,Mağaza,2,3250,2190,0.1
+SIP-00210,2025-01-20,Çay,Gıda,Marmara,Pazaryeri,3,180,89,0.05
+SIP-00211,2025-08-16,Atıştırmalık,Gıda,Marmara,Mağaza,1,95,51,0.05
+SIP-00212,2025-05-28,Kalem Seti,Kırtasiye,İç Anadolu,Mağaza,1,283.5,125,0.1
+SIP-00213,2025-01-28,Akıllı Saat,Elektronik,Doğu Anadolu,Mağaza,5,4900,3170,0
+SIP-00214,2025-04-22,Laptop,Elektronik,Akdeniz,Pazaryeri,5,29500,22900,0
+SIP-00215,2025-11-14,Termos,Yaşam,Doğu Anadolu,Mağaza,2,780,410,0.15
+SIP-00216,2025-01-14,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,2,1472.5,890,0.05
+SIP-00217,2025-10-17,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,270,125,0.15
+SIP-00218,2025-03-10,Akıllı Saat,Elektronik,Karadeniz,Mağaza,1,5145.0,3170,0
+SIP-00219,2025-12-17,Sırt Çantası,Yaşam,Akdeniz,Online,1,1550,890,0.05
+SIP-00220,2025-11-24,Akıllı Saat,Elektronik,Karadeniz,Pazaryeri,1,5145.0,3170,0
+SIP-00221,2025-05-29,Ofis Sandalyesi,Mobilya,Ege,Mağaza,2,6700,4400,0.15
+SIP-00222,2025-05-16,Çalışma Masası,Mobilya,Akdeniz,Online,2,8200,5780,0.05
+SIP-00223,2025-11-18,Akıllı Saat,Elektronik,Karadeniz,Online,2,5145.0,3170,0
+SIP-00224,2025-12-19,Defter,Kırtasiye,Güneydoğu Anadolu,Online,1,130,64,0.1
+SIP-00225,2025-04-08,Çalışma Masası,Mobilya,Ege,Pazaryeri,2,8200,5780,0.05
+SIP-00226,2025-03-20,Atıştırmalık,Gıda,Ege,Online,1,95,51,0.2
+SIP-00227,2025-05-18,Kitaplık,Mobilya,Doğu Anadolu,Mağaza,1,3250,2190,0
+SIP-00228,2025-05-10,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,1,130,64,0.15
+SIP-00229,2025-06-13,Kahve,Gıda,Marmara,Pazaryeri,2,294.5,170,0
+SIP-00230,2025-07-29,Atıştırmalık,Gıda,Akdeniz,Pazaryeri,1,95,51,0.15
+SIP-00231,2025-09-07,Çay,Gıda,Ege,Pazaryeri,1,189.0,89,0
+SIP-00232,2025-07-14,Kalem Seti,Kırtasiye,İç Anadolu,Pazaryeri,1,283.5,125,0.15
+SIP-00233,2025-06-23,Termos,Yaşam,Ege,Online,2,819.0,410,0.15
+SIP-00234,2025-12-22,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,2,95,51,0.15
+SIP-00235,2025-06-18,Termos,Yaşam,Ege,Pazaryeri,1,780,410,0.05
+SIP-00236,2025-04-02,Laptop,Elektronik,İç Anadolu,Online,1,29500,22900,0
+SIP-00237,2025-02-11,Akıllı Saat,Elektronik,Ege,Pazaryeri,1,4900,3170,0
+SIP-00238,2025-05-09,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,1,1627.5,890,0
+SIP-00239,2025-05-26,Laptop,Elektronik,Karadeniz,Pazaryeri,2,30975.0,22900,0
+SIP-00240,2025-04-01,Laptop,Elektronik,Karadeniz,Pazaryeri,1,29500,22900,0.15
+SIP-00241,2025-09-24,Kulaklık,Elektronik,Karadeniz,Online,3,1850,1120,0.15
+SIP-00242,2025-05-09,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,1,90.25,51,0.1
+SIP-00243,2025-07-24,Kahve,Gıda,Karadeniz,Pazaryeri,1,294.5,170,0
+SIP-00244,2025-06-20,Kahve,Gıda,Marmara,Online,1,310,170,0.15
+SIP-00245,2025-06-07,Atıştırmalık,Gıda,Karadeniz,Online,2,95,51,0
+SIP-00246,2025-03-28,Kahve,Gıda,Akdeniz,Online,3,310,170,0
+SIP-00247,2025-12-15,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,3,7035.0,4400,0
+SIP-00248,2025-10-27,Laptop,Elektronik,Marmara,Mağaza,2,30975.0,22900,0.1
+SIP-00249,2025-09-01,Laptop,Elektronik,Doğu Anadolu,Mağaza,2,29500,22900,0
+SIP-00250,2025-10-19,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,2,1550,890,0.05
+SIP-00251,2025-03-17,Kalem Seti,Kırtasiye,Marmara,Mağaza,3,270,125,0.15
+SIP-00252,2025-03-13,Kulaklık,Elektronik,Karadeniz,Mağaza,2,1757.5,1120,0.05
+SIP-00253,2025-04-13,Kahve,Gıda,Güneydoğu Anadolu,Mağaza,2,310,170,0.05
+SIP-00254,2025-08-28,Termos,Yaşam,Güneydoğu Anadolu,Mağaza,5,780,410,0
+SIP-00255,2025-07-31,Atıştırmalık,Gıda,Ege,Pazaryeri,5,95,51,0
+SIP-00256,2025-10-26,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,1,1942.5,1120,0
+SIP-00257,2025-10-30,Laptop,Elektronik,Akdeniz,Online,2,30975.0,22900,0.05
+SIP-00258,2025-05-18,Suluk,Yaşam,Marmara,Pazaryeri,2,320,145,0.05
+SIP-00259,2025-11-30,Defter,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,130,64,0
+SIP-00260,2025-10-21,Kulaklık,Elektronik,Marmara,Online,5,1850,1120,0
+SIP-00261,2025-02-19,Termos,Yaşam,İç Anadolu,Pazaryeri,2,741.0,410,0.05
+SIP-00262,2025-07-31,Suluk,Yaşam,Doğu Anadolu,Pazaryeri,4,320,145,0
+SIP-00263,2025-06-01,Termos,Yaşam,Güneydoğu Anadolu,Pazaryeri,1,780,410,0.15
+SIP-00264,2025-02-05,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,3,1472.5,890,0
+SIP-00265,2025-04-25,Suluk,Yaşam,Akdeniz,Pazaryeri,2,320,145,0
+SIP-00266,2025-03-13,Kitaplık,Mobilya,Akdeniz,Mağaza,1,3087.5,2190,0.05
+SIP-00267,2025-10-16,Termos,Yaşam,Ege,Online,3,819.0,410,0
+SIP-00268,2025-03-03,Atıştırmalık,Gıda,Ege,Online,2,90.25,51,0.1
+SIP-00269,2025-10-25,Defter,Kırtasiye,Doğu Anadolu,Mağaza,3,123.5,64,0.05
+SIP-00270,2025-07-02,Suluk,Yaşam,Ege,Mağaza,2,320,145,0
+SIP-00271,2025-06-24,Ajanda,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,360,181,0
+SIP-00272,2025-06-10,Sırt Çantası,Yaşam,Ege,Pazaryeri,2,1627.5,890,0
+SIP-00273,2025-06-11,Atıştırmalık,Gıda,Marmara,Pazaryeri,1,95,51,0.05
+SIP-00274,2025-10-06,Kitaplık,Mobilya,Karadeniz,Online,2,3250,2190,0
+SIP-00275,2025-07-21,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Pazaryeri,1,8200,5780,0
+SIP-00276,2025-02-27,Çalışma Masası,Mobilya,Marmara,Pazaryeri,1,8200,5780,0.05
+SIP-00277,2025-08-08,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Mağaza,2,270,125,0.15
+SIP-00278,2025-01-04,Kahve,Gıda,İç Anadolu,Pazaryeri,1,310,170,0
+SIP-00279,2025-03-20,Kulaklık,Elektronik,Akdeniz,Mağaza,1,1850,1120,0.15
+SIP-00280,2025-10-08,Çay,Gıda,Güneydoğu Anadolu,Online,3,180,89,0.05
+SIP-00281,2025-02-03,Laptop,Elektronik,Güneydoğu Anadolu,Pazaryeri,2,29500,22900,0
+SIP-00282,2025-01-21,Atıştırmalık,Gıda,Karadeniz,Pazaryeri,3,95,51,0
+SIP-00283,2025-12-27,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,2,8610.0,5780,0.05
+SIP-00284,2025-04-08,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,360,181,0.15
+SIP-00285,2025-01-31,Çay,Gıda,Marmara,Online,2,189.0,89,0.1
+SIP-00286,2025-02-03,Kalem Seti,Kırtasiye,Akdeniz,Online,1,270,125,0
+SIP-00287,2025-05-22,Suluk,Yaşam,İç Anadolu,Online,1,320,145,0
+SIP-00288,2025-07-02,Termos,Yaşam,Doğu Anadolu,Mağaza,1,780,410,0
+SIP-00289,2025-02-14,Laptop,Elektronik,Ege,Online,1,28025.0,22900,0.05
+SIP-00290,2025-06-23,Çay,Gıda,Akdeniz,Pazaryeri,3,180,89,0
+SIP-00291,2025-06-06,Atıştırmalık,Gıda,Karadeniz,Pazaryeri,2,95,51,0
+SIP-00292,2025-03-24,Kahve,Gıda,Akdeniz,Mağaza,1,310,170,0
+SIP-00293,2025-05-11,Kulaklık,Elektronik,Güneydoğu Anadolu,Online,2,1757.5,1120,0.05
+SIP-00294,2025-05-05,Çay,Gıda,Doğu Anadolu,Pazaryeri,2,180,89,0
+SIP-00295,2025-08-02,Kulaklık,Elektronik,Akdeniz,Mağaza,1,1942.5,1120,0
+SIP-00296,2025-02-13,Kahve,Gıda,İç Anadolu,Online,2,294.5,170,0
+SIP-00297,2025-06-06,Laptop,Elektronik,Karadeniz,Online,3,30975.0,22900,0
+SIP-00298,2025-12-05,Kitaplık,Mobilya,Akdeniz,Online,1,3250,2190,0.15
+SIP-00299,2025-05-25,Laptop,Elektronik,Doğu Anadolu,Pazaryeri,2,29500,22900,0.15
+SIP-00300,2025-01-08,Termos,Yaşam,Karadeniz,Online,1,780,410,0
+SIP-00301,2025-02-13,Kitaplık,Mobilya,İç Anadolu,Online,1,3087.5,2190,0.2
+SIP-00302,2025-02-05,Kulaklık,Elektronik,Ege,Pazaryeri,3,1850,1120,0
+SIP-00303,2025-10-17,Ajanda,Kırtasiye,Güneydoğu Anadolu,Mağaza,4,360,181,0.1
+SIP-00304,2025-01-21,Defter,Kırtasiye,Doğu Anadolu,Pazaryeri,1,136.5,64,0.05
+SIP-00305,2025-05-04,Sırt Çantası,Yaşam,Marmara,Mağaza,2,1550,890,0
+SIP-00306,2025-09-28,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,5,95,51,0.05
+SIP-00307,2025-12-27,Kahve,Gıda,Karadeniz,Mağaza,2,310,170,0.2
+SIP-00308,2025-04-17,Çay,Gıda,İç Anadolu,Online,1,180,89,0.05
+SIP-00309,2025-06-17,Termos,Yaşam,Doğu Anadolu,Mağaza,2,780,410,0.05
+SIP-00310,2025-04-24,Kulaklık,Elektronik,Akdeniz,Mağaza,1,1850,1120,0.1
+SIP-00311,2025-03-11,Ofis Sandalyesi,Mobilya,Marmara,Pazaryeri,3,6700,4400,0.15
+SIP-00312,2025-11-14,Kulaklık,Elektronik,Doğu Anadolu,Mağaza,4,1942.5,1120,0.1
+SIP-00313,2025-03-11,Termos,Yaşam,Karadeniz,Pazaryeri,3,819.0,410,0.1
+SIP-00314,2025-12-05,Çay,Gıda,İç Anadolu,Mağaza,5,180,89,0.05
+SIP-00315,2025-08-29,Atıştırmalık,Gıda,Doğu Anadolu,Mağaza,1,90.25,51,0.15
+SIP-00316,2025-08-02,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Online,1,6700,4400,0.05
+SIP-00317,2025-04-22,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,1,29500,22900,0.05
+SIP-00318,2025-08-11,Atıştırmalık,Gıda,İç Anadolu,Online,2,95,51,0.05
+SIP-00319,2025-08-05,Ajanda,Kırtasiye,Ege,Pazaryeri,4,342.0,181,0.1
+SIP-00320,2025-02-19,Laptop,Elektronik,İç Anadolu,Mağaza,3,29500,22900,0
+SIP-00321,2025-01-05,Atıştırmalık,Gıda,Karadeniz,Pazaryeri,4,95,51,0
+SIP-00322,2025-05-23,Ofis Sandalyesi,Mobilya,İç Anadolu,Pazaryeri,3,6700,4400,0.05
+SIP-00323,2025-07-31,Akıllı Saat,Elektronik,Akdeniz,Online,3,4900,3170,0.15
+SIP-00324,2025-02-12,Çay,Gıda,Ege,Online,2,171.0,89,0
+SIP-00325,2025-12-01,Sırt Çantası,Yaşam,Ege,Pazaryeri,2,1627.5,890,0.15
+SIP-00326,2025-10-20,Kahve,Gıda,Karadeniz,Mağaza,1,310,170,0.05
+SIP-00327,2025-08-19,Ofis Sandalyesi,Mobilya,İç Anadolu,Mağaza,1,6700,4400,0.2
+SIP-00328,2025-09-25,Çay,Gıda,Ege,Pazaryeri,2,180,89,0.05
+SIP-00329,2025-03-28,Kahve,Gıda,Ege,Mağaza,4,294.5,170,0.2
+SIP-00330,2025-08-15,Ajanda,Kırtasiye,Marmara,Online,2,360,181,0.05
+SIP-00331,2025-01-17,Kitaplık,Mobilya,Ege,Pazaryeri,2,3087.5,2190,0.1
+SIP-00332,2025-01-30,Kahve,Gıda,Karadeniz,Online,2,310,170,0
+SIP-00333,2025-11-18,Kalem Seti,Kırtasiye,Akdeniz,Online,2,270,125,0
+SIP-00334,2025-09-02,Akıllı Saat,Elektronik,Doğu Anadolu,Pazaryeri,2,4900,3170,0
+SIP-00335,2025-09-08,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,1,360,181,0
+SIP-00336,2025-08-20,Sırt Çantası,Yaşam,Marmara,Online,2,1550,890,0
+SIP-00337,2025-07-07,Suluk,Yaşam,Akdeniz,Online,2,320,145,0
+SIP-00338,2025-12-08,Kitaplık,Mobilya,Marmara,Pazaryeri,2,3250,2190,0.05
+SIP-00339,2025-12-12,Ajanda,Kırtasiye,Ege,Pazaryeri,2,342.0,181,0.1
+SIP-00340,2025-11-29,Çay,Gıda,Ege,Mağaza,1,180,89,0.05
+SIP-00341,2025-12-15,Sırt Çantası,Yaşam,Karadeniz,Online,1,1550,890,0
+SIP-00342,2025-09-07,Akıllı Saat,Elektronik,İç Anadolu,Mağaza,1,4655.0,3170,0
+SIP-00343,2025-01-02,Suluk,Yaşam,Doğu Anadolu,Mağaza,2,320,145,0.05
+SIP-00344,2025-08-18,Sırt Çantası,Yaşam,İç Anadolu,Mağaza,1,1550,890,0.1
+SIP-00345,2025-12-22,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Online,3,4900,3170,0.1
+SIP-00346,2025-12-16,Atıştırmalık,Gıda,Karadeniz,Online,1,95,51,0
+SIP-00347,2025-05-06,Kulaklık,Elektronik,Karadeniz,Pazaryeri,1,1850,1120,0.05
+SIP-00348,2025-03-27,Suluk,Yaşam,İç Anadolu,Mağaza,1,336.0,145,0.2
+SIP-00349,2025-09-08,Ajanda,Kırtasiye,İç Anadolu,Online,5,342.0,181,0.1
+SIP-00350,2025-11-08,Suluk,Yaşam,Ege,Mağaza,1,304.0,145,0.1
+SIP-00351,2025-11-26,Suluk,Yaşam,Güneydoğu Anadolu,Online,1,320,145,0
+SIP-00352,2025-01-27,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,283.5,125,0.15
+SIP-00353,2025-12-11,Kalem Seti,Kırtasiye,Marmara,Online,4,270,125,0.15
+SIP-00354,2025-02-28,Laptop,Elektronik,Akdeniz,Mağaza,4,29500,22900,0
+SIP-00355,2025-09-22,Ofis Sandalyesi,Mobilya,Akdeniz,Pazaryeri,3,7035.0,4400,0.1
+SIP-00356,2025-03-11,Çalışma Masası,Mobilya,Doğu Anadolu,Mağaza,3,8200,5780,0.05
+SIP-00357,2025-10-07,Defter,Kırtasiye,Ege,Pazaryeri,4,123.5,64,0.1
+SIP-00358,2025-04-11,Suluk,Yaşam,Güneydoğu Anadolu,Online,1,320,145,0.05
+SIP-00359,2025-06-23,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Mağaza,1,8200,5780,0
+SIP-00360,2025-06-02,Ajanda,Kırtasiye,Akdeniz,Pazaryeri,2,378.0,181,0.1
+SIP-00361,2025-07-04,Defter,Kırtasiye,Doğu Anadolu,Pazaryeri,2,123.5,64,0.05
+SIP-00362,2025-08-28,Ajanda,Kırtasiye,Karadeniz,Pazaryeri,4,360,181,0
+SIP-00363,2025-06-22,Defter,Kırtasiye,Akdeniz,Online,3,130,64,0.1
+SIP-00364,2025-08-12,Defter,Kırtasiye,Güneydoğu Anadolu,Online,2,136.5,64,0.15
+SIP-00365,2025-06-27,Defter,Kırtasiye,İç Anadolu,Mağaza,1,136.5,64,0.1
+SIP-00366,2025-12-15,Çay,Gıda,Doğu Anadolu,Mağaza,3,180,89,0.2
+SIP-00367,2025-06-10,Ajanda,Kırtasiye,Karadeniz,Online,1,342.0,181,0.05
+SIP-00368,2025-02-08,Laptop,Elektronik,Ege,Pazaryeri,4,29500,22900,0
+SIP-00369,2025-08-29,Suluk,Yaşam,Güneydoğu Anadolu,Mağaza,1,320,145,0
+SIP-00370,2025-12-31,Laptop,Elektronik,Marmara,Mağaza,1,28025.0,22900,0.15
+SIP-00371,2025-07-02,Çay,Gıda,Marmara,Online,1,189.0,89,0
+SIP-00372,2025-10-13,Akıllı Saat,Elektronik,Karadeniz,Mağaza,1,4900,3170,0
+SIP-00373,2025-10-31,Atıştırmalık,Gıda,Doğu Anadolu,Pazaryeri,2,95,51,0
+SIP-00374,2025-06-28,Kitaplık,Mobilya,İç Anadolu,Mağaza,1,3087.5,2190,0
+SIP-00375,2025-01-14,Ajanda,Kırtasiye,Ege,Mağaza,1,342.0,181,0.2
+SIP-00376,2025-01-16,Kalem Seti,Kırtasiye,Karadeniz,Online,4,270,125,0
+SIP-00377,2025-05-04,Kalem Seti,Kırtasiye,Doğu Anadolu,Online,3,283.5,125,0.05
+SIP-00378,2025-06-07,Defter,Kırtasiye,İç Anadolu,Pazaryeri,1,130,64,0
+SIP-00379,2025-03-07,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,2,6365.0,4400,0
+SIP-00380,2025-11-25,Defter,Kırtasiye,Ege,Online,1,130,64,0.1
+SIP-00381,2025-08-26,Kulaklık,Elektronik,Güneydoğu Anadolu,Online,2,1850,1120,0
+SIP-00382,2025-05-19,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Pazaryeri,1,8610.0,5780,0
+SIP-00383,2025-06-02,Termos,Yaşam,Karadeniz,Online,1,780,410,0
+SIP-00384,2025-12-10,Atıştırmalık,Gıda,Akdeniz,Mağaza,4,95,51,0
+SIP-00385,2025-12-03,Kitaplık,Mobilya,Doğu Anadolu,Pazaryeri,1,3412.5,2190,0.05
+SIP-00386,2025-04-09,Çalışma Masası,Mobilya,Akdeniz,Mağaza,1,7790.0,5780,0
+SIP-00387,2025-05-09,Termos,Yaşam,Ege,Pazaryeri,1,780,410,0
+SIP-00388,2025-07-30,Akıllı Saat,Elektronik,Marmara,Online,1,4655.0,3170,0.05
+SIP-00389,2025-03-06,Çay,Gıda,Marmara,Online,3,189.0,89,0.15
+SIP-00390,2025-06-11,Çalışma Masası,Mobilya,Doğu Anadolu,Pazaryeri,4,8610.0,5780,0.1
+SIP-00391,2025-07-11,Ajanda,Kırtasiye,İç Anadolu,Pazaryeri,2,360,181,0.1
+SIP-00392,2025-03-16,Atıştırmalık,Gıda,Doğu Anadolu,Online,1,95,51,0.15
+SIP-00393,2025-07-19,Kahve,Gıda,Ege,Pazaryeri,2,310,170,0.1
+SIP-00394,2025-08-27,Suluk,Yaşam,Doğu Anadolu,Mağaza,2,320,145,0.05
+SIP-00395,2025-08-25,Ofis Sandalyesi,Mobilya,Ege,Pazaryeri,1,6700,4400,0
+SIP-00396,2025-06-12,Sırt Çantası,Yaşam,Karadeniz,Online,1,1550,890,0.05
+SIP-00397,2025-08-03,Çalışma Masası,Mobilya,Doğu Anadolu,Pazaryeri,1,8610.0,5780,0.05
+SIP-00398,2025-03-17,Termos,Yaşam,Güneydoğu Anadolu,Pazaryeri,2,780,410,0.2
+SIP-00399,2025-10-14,Kahve,Gıda,Marmara,Pazaryeri,1,310,170,0.05
+SIP-00400,2025-12-02,Kitaplık,Mobilya,Güneydoğu Anadolu,Pazaryeri,3,3250,2190,0
+SIP-00401,2025-06-09,Ajanda,Kırtasiye,Ege,Pazaryeri,1,360,181,0.05
+SIP-00402,2025-08-13,Kahve,Gıda,Karadeniz,Pazaryeri,3,310,170,0
+SIP-00403,2025-04-21,Kalem Seti,Kırtasiye,İç Anadolu,Mağaza,1,283.5,125,0
+SIP-00404,2025-09-01,Kulaklık,Elektronik,Karadeniz,Pazaryeri,2,1942.5,1120,0.15
+SIP-00405,2025-02-10,Ofis Sandalyesi,Mobilya,Ege,Mağaza,2,6700,4400,0.1
+SIP-00406,2025-09-19,Suluk,Yaşam,Güneydoğu Anadolu,Pazaryeri,2,320,145,0
+SIP-00407,2025-04-29,Atıştırmalık,Gıda,Güneydoğu Anadolu,Mağaza,2,95,51,0
+SIP-00408,2025-03-21,Ofis Sandalyesi,Mobilya,Ege,Pazaryeri,3,6700,4400,0
+SIP-00409,2025-10-16,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,2,95,51,0.15
+SIP-00410,2025-03-30,Kalem Seti,Kırtasiye,Akdeniz,Mağaza,3,270,125,0.1
+SIP-00411,2025-02-15,Suluk,Yaşam,Karadeniz,Mağaza,2,320,145,0.15
+SIP-00412,2025-01-21,Suluk,Yaşam,Karadeniz,Online,4,320,145,0.1
+SIP-00413,2025-10-02,Sırt Çantası,Yaşam,İç Anadolu,Pazaryeri,2,1627.5,890,0.1
+SIP-00414,2025-01-26,Laptop,Elektronik,Karadeniz,Online,2,28025.0,22900,0
+SIP-00415,2025-08-16,Kitaplık,Mobilya,Marmara,Online,2,3250,2190,0.05
+SIP-00416,2025-09-28,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,2,1627.5,890,0.2
+SIP-00417,2025-05-26,Laptop,Elektronik,Güneydoğu Anadolu,Online,2,29500,22900,0
+SIP-00418,2025-11-04,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,1,95,51,0.1
+SIP-00419,2025-07-21,Çalışma Masası,Mobilya,Akdeniz,Online,2,8200,5780,0.2
+SIP-00420,2025-04-15,Defter,Kırtasiye,Ege,Pazaryeri,1,123.5,64,0.15
+SIP-00421,2025-09-02,Atıştırmalık,Gıda,Doğu Anadolu,Online,3,95,51,0.05
+SIP-00422,2025-05-26,Laptop,Elektronik,Karadeniz,Mağaza,2,29500,22900,0.1
+SIP-00423,2025-09-11,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Online,3,8200,5780,0.1
+SIP-00424,2025-09-23,Termos,Yaşam,Ege,Pazaryeri,2,780,410,0
+SIP-00425,2025-01-03,Laptop,Elektronik,Doğu Anadolu,Online,3,30975.0,22900,0.1
+SIP-00426,2025-07-25,Laptop,Elektronik,İç Anadolu,Mağaza,4,29500,22900,0.05
+SIP-00427,2025-10-16,Akıllı Saat,Elektronik,Marmara,Mağaza,1,4655.0,3170,0.2
+SIP-00428,2025-06-07,Suluk,Yaşam,Akdeniz,Pazaryeri,4,304.0,145,0.1
+SIP-00429,2025-09-13,Defter,Kırtasiye,Akdeniz,Online,1,123.5,64,0
+SIP-00430,2025-09-08,Termos,Yaşam,Akdeniz,Pazaryeri,1,780,410,0.2
+SIP-00431,2025-02-19,Suluk,Yaşam,Akdeniz,Pazaryeri,2,320,145,0.05
+SIP-00432,2025-11-13,Çalışma Masası,Mobilya,Marmara,Online,2,7790.0,5780,0.1
+SIP-00433,2025-02-25,Sırt Çantası,Yaşam,Karadeniz,Mağaza,2,1472.5,890,0.05
+SIP-00434,2025-08-15,Atıştırmalık,Gıda,İç Anadolu,Online,4,95,51,0.05
+SIP-00435,2025-02-08,Kalem Seti,Kırtasiye,Ege,Mağaza,2,270,125,0.05
+SIP-00436,2025-07-20,Çalışma Masası,Mobilya,Karadeniz,Pazaryeri,2,8200,5780,0.15
+SIP-00437,2025-08-17,Atıştırmalık,Gıda,İç Anadolu,Mağaza,1,95,51,0.15
+SIP-00438,2025-05-28,Termos,Yaşam,Marmara,Online,1,780,410,0
+SIP-00439,2025-08-13,Atıştırmalık,Gıda,İç Anadolu,Mağaza,1,95,51,0.15
+SIP-00440,2025-06-25,Suluk,Yaşam,Güneydoğu Anadolu,Pazaryeri,2,320,145,0.15
+SIP-00441,2025-09-25,Kulaklık,Elektronik,Doğu Anadolu,Mağaza,1,1850,1120,0
+SIP-00442,2025-06-07,Laptop,Elektronik,Güneydoğu Anadolu,Online,2,30975.0,22900,0.1
+SIP-00443,2025-04-28,Kulaklık,Elektronik,Karadeniz,Online,2,1757.5,1120,0.15
+SIP-00444,2025-01-03,Çay,Gıda,İç Anadolu,Pazaryeri,1,189.0,89,0.15
+SIP-00445,2025-07-14,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,3,29500,22900,0
+SIP-00446,2025-02-20,Çalışma Masası,Mobilya,İç Anadolu,Pazaryeri,3,8200,5780,0.2
+SIP-00447,2025-02-12,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,3,29500,22900,0.1
+SIP-00448,2025-01-14,Kahve,Gıda,Doğu Anadolu,Mağaza,1,310,170,0
+SIP-00449,2025-10-26,Ofis Sandalyesi,Mobilya,Akdeniz,Mağaza,2,7035.0,4400,0.1
+SIP-00450,2025-03-09,Termos,Yaşam,Ege,Online,2,780,410,0.05
+SIP-00451,2025-02-27,Kalem Seti,Kırtasiye,Marmara,Online,3,256.5,125,0
+SIP-00452,2025-09-08,Kahve,Gıda,Doğu Anadolu,Pazaryeri,5,310,170,0.1
+SIP-00453,2025-11-11,Ofis Sandalyesi,Mobilya,Marmara,Mağaza,2,6700,4400,0.2
+SIP-00454,2025-12-22,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,2,95,51,0.1
+SIP-00455,2025-12-24,Kalem Seti,Kırtasiye,İç Anadolu,Mağaza,1,270,125,0.1
+SIP-00456,2025-05-16,Kalem Seti,Kırtasiye,Doğu Anadolu,Pazaryeri,4,270,125,0.1
+SIP-00457,2025-04-10,Akıllı Saat,Elektronik,Marmara,Pazaryeri,3,4900,3170,0.05
+SIP-00458,2025-09-09,Ofis Sandalyesi,Mobilya,Ege,Mağaza,1,6700,4400,0
+SIP-00459,2025-04-11,Kahve,Gıda,İç Anadolu,Mağaza,1,310,170,0.05
+SIP-00460,2025-09-02,Termos,Yaşam,Güneydoğu Anadolu,Online,2,780,410,0
+SIP-00461,2025-08-15,Atıştırmalık,Gıda,Akdeniz,Pazaryeri,3,95,51,0
+SIP-00462,2025-04-16,Kulaklık,Elektronik,Karadeniz,Pazaryeri,4,1850,1120,0
+SIP-00463,2025-10-21,Defter,Kırtasiye,Ege,Pazaryeri,1,136.5,64,0.15
+SIP-00464,2025-02-02,Laptop,Elektronik,Marmara,Online,3,30975.0,22900,0.15
+SIP-00465,2025-11-28,Termos,Yaşam,Marmara,Mağaza,2,780,410,0
+SIP-00466,2025-08-23,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Pazaryeri,3,6700,4400,0
+SIP-00467,2025-04-17,Defter,Kırtasiye,İç Anadolu,Mağaza,1,130,64,0
+SIP-00468,2025-03-12,Ofis Sandalyesi,Mobilya,İç Anadolu,Pazaryeri,2,6700,4400,0.2
+SIP-00469,2025-12-04,Defter,Kırtasiye,Akdeniz,Pazaryeri,1,136.5,64,0
+SIP-00470,2025-10-14,Atıştırmalık,Gıda,Ege,Online,1,99.75,51,0
+SIP-00471,2025-02-11,Kulaklık,Elektronik,Doğu Anadolu,Pazaryeri,1,1757.5,1120,0.1
+SIP-00472,2025-07-05,Akıllı Saat,Elektronik,Akdeniz,Pazaryeri,1,4655.0,3170,0
+SIP-00473,2025-12-30,Atıştırmalık,Gıda,Ege,Mağaza,1,95,51,0
+SIP-00474,2025-11-28,Ajanda,Kırtasiye,Akdeniz,Pazaryeri,2,378.0,181,0.05
+SIP-00475,2025-04-11,Kitaplık,Mobilya,Doğu Anadolu,Mağaza,1,3250,2190,0.05
+SIP-00476,2025-08-04,Suluk,Yaşam,Akdeniz,Online,5,304.0,145,0
+SIP-00477,2025-04-12,Kulaklık,Elektronik,Doğu Anadolu,Mağaza,1,1850,1120,0
+SIP-00478,2025-08-16,Suluk,Yaşam,İç Anadolu,Online,1,320,145,0
+SIP-00479,2025-07-30,Sırt Çantası,Yaşam,Karadeniz,Online,4,1550,890,0
+SIP-00480,2025-01-06,Suluk,Yaşam,Karadeniz,Online,1,320,145,0.05
+SIP-00481,2025-06-23,Suluk,Yaşam,Karadeniz,Mağaza,2,320,145,0
+SIP-00482,2025-03-26,Kitaplık,Mobilya,İç Anadolu,Mağaza,2,3087.5,2190,0.1
+SIP-00483,2025-03-20,Ajanda,Kırtasiye,Marmara,Pazaryeri,1,342.0,181,0.05
+SIP-00484,2025-02-01,Ofis Sandalyesi,Mobilya,Ege,Online,3,6700,4400,0
+SIP-00485,2025-02-12,Kahve,Gıda,Akdeniz,Mağaza,1,310,170,0
+SIP-00486,2025-05-10,Akıllı Saat,Elektronik,Doğu Anadolu,Online,1,5145.0,3170,0
+SIP-00487,2025-12-11,Atıştırmalık,Gıda,Doğu Anadolu,Online,3,90.25,51,0
+SIP-00488,2025-02-28,Kitaplık,Mobilya,Marmara,Pazaryeri,3,3250,2190,0
+SIP-00489,2025-07-02,Kulaklık,Elektronik,Karadeniz,Mağaza,1,1942.5,1120,0
+SIP-00490,2025-09-08,Suluk,Yaşam,Doğu Anadolu,Mağaza,2,320,145,0
+SIP-00491,2025-08-31,Ajanda,Kırtasiye,Doğu Anadolu,Online,1,342.0,181,0
+SIP-00492,2025-05-17,Termos,Yaşam,Akdeniz,Mağaza,1,741.0,410,0.05
+SIP-00493,2025-10-25,Laptop,Elektronik,Marmara,Pazaryeri,1,29500,22900,0
+SIP-00494,2025-06-01,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Pazaryeri,1,4900,3170,0
+SIP-00495,2025-12-22,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,1,7035.0,4400,0.05
+SIP-00496,2025-11-22,Suluk,Yaşam,Doğu Anadolu,Mağaza,1,320,145,0.05
+SIP-00497,2025-06-11,Ajanda,Kırtasiye,Doğu Anadolu,Online,1,360,181,0
+SIP-00498,2025-03-16,Sırt Çantası,Yaşam,Ege,Pazaryeri,1,1550,890,0
+SIP-00499,2025-09-20,Ofis Sandalyesi,Mobilya,Marmara,Online,1,7035.0,4400,0.05
+SIP-00500,2025-06-19,Kitaplık,Mobilya,Karadeniz,Online,5,3250,2190,0.05
+SIP-00501,2025-11-08,Kahve,Gıda,Marmara,Mağaza,3,310,170,0.05
+SIP-00502,2025-03-11,Laptop,Elektronik,Akdeniz,Mağaza,1,29500,22900,0
+SIP-00503,2025-09-04,Atıştırmalık,Gıda,Akdeniz,Mağaza,2,95,51,0
+SIP-00504,2025-10-19,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Pazaryeri,1,6365.0,4400,0
+SIP-00505,2025-04-21,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,1,1550,890,0
+SIP-00506,2025-05-06,Kitaplık,Mobilya,Doğu Anadolu,Mağaza,1,3250,2190,0
+SIP-00507,2025-10-26,Akıllı Saat,Elektronik,İç Anadolu,Pazaryeri,3,4655.0,3170,0.1
+SIP-00508,2025-01-25,Çay,Gıda,Akdeniz,Online,3,180,89,0.05
+SIP-00509,2025-06-27,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Pazaryeri,1,6700,4400,0
+SIP-00510,2025-01-09,Çalışma Masası,Mobilya,Doğu Anadolu,Online,1,7790.0,5780,0.05
+SIP-00511,2025-12-11,Kalem Seti,Kırtasiye,Ege,Online,1,270,125,0.05
+SIP-00512,2025-12-28,Akıllı Saat,Elektronik,Marmara,Mağaza,4,4655.0,3170,0
+SIP-00513,2025-08-28,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,1,1627.5,890,0.2
+SIP-00514,2025-04-03,Çay,Gıda,Marmara,Online,2,180,89,0.1
+SIP-00515,2025-12-12,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Mağaza,2,6700,4400,0
+SIP-00516,2025-04-09,Akıllı Saat,Elektronik,Ege,Online,4,4655.0,3170,0.1
+SIP-00517,2025-11-22,Ofis Sandalyesi,Mobilya,İç Anadolu,Pazaryeri,3,6700,4400,0
+SIP-00518,2025-01-22,Laptop,Elektronik,İç Anadolu,Pazaryeri,3,29500,22900,0.15
+SIP-00519,2025-09-23,Atıştırmalık,Gıda,Doğu Anadolu,Mağaza,3,95,51,0.2
+SIP-00520,2025-08-04,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,2,95,51,0.05
+SIP-00521,2025-11-03,Suluk,Yaşam,Doğu Anadolu,Mağaza,1,336.0,145,0
+SIP-00522,2025-10-06,Çay,Gıda,Akdeniz,Pazaryeri,2,180,89,0.05
+SIP-00523,2025-11-09,Termos,Yaşam,Doğu Anadolu,Mağaza,1,780,410,0.15
+SIP-00524,2025-03-13,Çay,Gıda,Marmara,Pazaryeri,3,189.0,89,0.2
+SIP-00525,2025-04-17,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,378.0,181,0
+SIP-00526,2025-03-24,Laptop,Elektronik,Ege,Pazaryeri,1,30975.0,22900,0.1
+SIP-00527,2025-08-27,Laptop,Elektronik,Ege,Online,1,30975.0,22900,0.15
+SIP-00528,2025-10-25,Çay,Gıda,Marmara,Online,2,189.0,89,0.1
+SIP-00529,2025-11-25,Kalem Seti,Kırtasiye,Marmara,Mağaza,1,283.5,125,0.05
+SIP-00530,2025-03-23,Atıştırmalık,Gıda,Karadeniz,Online,5,95,51,0.15
+SIP-00531,2025-06-18,Ofis Sandalyesi,Mobilya,Marmara,Mağaza,1,6365.0,4400,0.15
+SIP-00532,2025-06-11,Atıştırmalık,Gıda,Doğu Anadolu,Pazaryeri,2,99.75,51,0
+SIP-00533,2025-02-06,Çalışma Masası,Mobilya,Marmara,Mağaza,3,8200,5780,0
+SIP-00534,2025-03-29,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,1,360,181,0.1
+SIP-00535,2025-03-31,Suluk,Yaşam,İç Anadolu,Mağaza,1,304.0,145,0
+SIP-00536,2025-04-11,Sırt Çantası,Yaşam,Akdeniz,Online,1,1472.5,890,0
+SIP-00537,2025-10-26,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,1,270,125,0.05
+SIP-00538,2025-07-06,Ajanda,Kırtasiye,Akdeniz,Mağaza,2,378.0,181,0
+SIP-00539,2025-06-11,Atıştırmalık,Gıda,İç Anadolu,Mağaza,5,95,51,0
+SIP-00540,2025-08-12,Kitaplık,Mobilya,Karadeniz,Online,2,3412.5,2190,0.15
+SIP-00541,2025-11-04,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,3,1550,890,0
+SIP-00542,2025-02-11,Suluk,Yaşam,Akdeniz,Pazaryeri,5,320,145,0
+SIP-00543,2025-03-11,Suluk,Yaşam,Marmara,Mağaza,3,336.0,145,0.15
+SIP-00544,2025-08-29,Kitaplık,Mobilya,Karadeniz,Online,1,3250,2190,0.05
+SIP-00545,2025-09-07,Çalışma Masası,Mobilya,Karadeniz,Online,3,7790.0,5780,0.2
+SIP-00546,2025-12-24,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,1,130,64,0.05
+SIP-00547,2025-02-15,Laptop,Elektronik,Akdeniz,Online,4,29500,22900,0.15
+SIP-00548,2025-09-20,Defter,Kırtasiye,Ege,Mağaza,1,136.5,64,0.1
+SIP-00549,2025-06-05,Ajanda,Kırtasiye,Ege,Pazaryeri,1,360,181,0.2
+SIP-00550,2025-10-17,Çay,Gıda,İç Anadolu,Online,2,180,89,0
+SIP-00551,2025-05-13,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,1,95,51,0.05
+SIP-00552,2025-10-20,Kahve,Gıda,Akdeniz,Mağaza,2,310,170,0
+SIP-00553,2025-07-23,Sırt Çantası,Yaşam,Akdeniz,Online,1,1550,890,0.15
+SIP-00554,2025-11-26,Kahve,Gıda,Güneydoğu Anadolu,Pazaryeri,1,310,170,0
+SIP-00555,2025-06-14,Çay,Gıda,Ege,Pazaryeri,2,171.0,89,0
+SIP-00556,2025-08-05,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,3,1627.5,890,0.15
+SIP-00557,2025-10-14,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,2,270,125,0
+SIP-00558,2025-03-16,Termos,Yaşam,Akdeniz,Pazaryeri,2,780,410,0.1
+SIP-00559,2025-02-23,Suluk,Yaşam,Karadeniz,Online,1,320,145,0.2
+SIP-00560,2025-12-05,Kalem Seti,Kırtasiye,Ege,Online,2,270,125,0.05
+SIP-00561,2025-05-15,Ofis Sandalyesi,Mobilya,Marmara,Mağaza,2,6700,4400,0
+SIP-00562,2025-12-24,Suluk,Yaşam,Ege,Online,4,320,145,0.1
+SIP-00563,2025-03-17,Akıllı Saat,Elektronik,Karadeniz,Online,1,4900,3170,0
+SIP-00564,2025-06-03,Laptop,Elektronik,Akdeniz,Online,1,29500,22900,0.1
+SIP-00565,2025-10-29,Kahve,Gıda,Marmara,Mağaza,2,325.5,170,0
+SIP-00566,2025-08-24,Çay,Gıda,Marmara,Mağaza,1,180,89,0.05
+SIP-00567,2025-06-19,Kulaklık,Elektronik,Doğu Anadolu,Mağaza,1,1850,1120,0
+SIP-00568,2025-10-05,Defter,Kırtasiye,İç Anadolu,Mağaza,2,136.5,64,0
+SIP-00569,2025-05-11,Ofis Sandalyesi,Mobilya,Ege,Pazaryeri,2,6700,4400,0
+SIP-00570,2025-03-15,Suluk,Yaşam,Akdeniz,Mağaza,3,320,145,0
+SIP-00571,2025-02-03,Çalışma Masası,Mobilya,Marmara,Pazaryeri,2,8200,5780,0.1
+SIP-00572,2025-07-19,Kitaplık,Mobilya,İç Anadolu,Online,3,3087.5,2190,0
+SIP-00573,2025-03-27,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,5,360,181,0.05
+SIP-00574,2025-12-30,Termos,Yaşam,Akdeniz,Mağaza,4,819.0,410,0.1
+SIP-00575,2025-04-22,Kalem Seti,Kırtasiye,Ege,Online,1,270,125,0.05
+SIP-00576,2025-10-12,Laptop,Elektronik,Karadeniz,Mağaza,1,28025.0,22900,0.1
+SIP-00577,2025-11-06,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,1,270,125,0.05
+SIP-00578,2025-10-09,Çalışma Masası,Mobilya,Karadeniz,Mağaza,1,8200,5780,0.15
+SIP-00579,2025-12-02,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,130,64,0
+SIP-00580,2025-01-14,Kulaklık,Elektronik,Doğu Anadolu,Pazaryeri,2,1850,1120,0
+SIP-00581,2025-04-23,Akıllı Saat,Elektronik,Karadeniz,Mağaza,1,4900,3170,0
+SIP-00582,2025-01-11,Sırt Çantası,Yaşam,Ege,Online,3,1550,890,0.05
+SIP-00583,2025-09-05,Defter,Kırtasiye,Akdeniz,Pazaryeri,4,130,64,0.05
+SIP-00584,2025-09-17,Kitaplık,Mobilya,İç Anadolu,Online,1,3412.5,2190,0
+SIP-00585,2025-09-22,Ofis Sandalyesi,Mobilya,Akdeniz,Pazaryeri,3,7035.0,4400,0
+SIP-00586,2025-06-26,Ajanda,Kırtasiye,Karadeniz,Pazaryeri,2,360,181,0
+SIP-00587,2025-08-23,Kahve,Gıda,Marmara,Mağaza,2,310,170,0
+SIP-00588,2025-08-18,Sırt Çantası,Yaşam,Marmara,Online,4,1550,890,0
+SIP-00589,2025-10-08,Ofis Sandalyesi,Mobilya,Karadeniz,Online,3,6700,4400,0
+SIP-00590,2025-12-20,Laptop,Elektronik,Karadeniz,Pazaryeri,4,30975.0,22900,0.05
+SIP-00591,2025-03-13,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,2,99.75,51,0.1
+SIP-00592,2025-02-21,Kitaplık,Mobilya,İç Anadolu,Mağaza,4,3250,2190,0.1
+SIP-00593,2025-05-05,Termos,Yaşam,Marmara,Online,1,780,410,0
+SIP-00594,2025-07-16,Kahve,Gıda,Karadeniz,Online,2,310,170,0.15
+SIP-00595,2025-06-22,Kulaklık,Elektronik,İç Anadolu,Mağaza,3,1850,1120,0.1
+SIP-00596,2025-02-02,Akıllı Saat,Elektronik,İç Anadolu,Online,1,5145.0,3170,0
+SIP-00597,2025-06-24,Ajanda,Kırtasiye,Güneydoğu Anadolu,Mağaza,2,360,181,0.1
+SIP-00598,2025-03-20,Suluk,Yaşam,İç Anadolu,Mağaza,2,320,145,0.15
+SIP-00599,2025-07-12,Laptop,Elektronik,Marmara,Online,1,29500,22900,0.05
+SIP-00600,2025-09-16,Kahve,Gıda,Karadeniz,Pazaryeri,4,310,170,0.15
+SIP-00601,2025-02-28,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Pazaryeri,4,6700,4400,0.1
+SIP-00602,2025-06-25,Çalışma Masası,Mobilya,Marmara,Pazaryeri,2,8200,5780,0.05
+SIP-00603,2025-07-09,Atıştırmalık,Gıda,Doğu Anadolu,Pazaryeri,1,95,51,0
+SIP-00604,2025-01-22,Çay,Gıda,Doğu Anadolu,Online,4,180,89,0
+SIP-00605,2025-06-10,Kulaklık,Elektronik,Doğu Anadolu,Online,4,1850,1120,0.15
+SIP-00606,2025-10-28,Laptop,Elektronik,Marmara,Pazaryeri,1,28025.0,22900,0
+SIP-00607,2025-04-17,Kalem Seti,Kırtasiye,Marmara,Mağaza,2,270,125,0.1
+SIP-00608,2025-10-31,Laptop,Elektronik,Marmara,Mağaza,1,28025.0,22900,0.1
+SIP-00609,2025-11-18,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,130,64,0
+SIP-00610,2025-03-22,Kahve,Gıda,Karadeniz,Online,2,294.5,170,0.1
+SIP-00611,2025-11-08,Akıllı Saat,Elektronik,İç Anadolu,Mağaza,1,4900,3170,0
+SIP-00612,2025-11-25,Ofis Sandalyesi,Mobilya,İç Anadolu,Mağaza,3,6365.0,4400,0
+SIP-00613,2025-05-14,Sırt Çantası,Yaşam,Marmara,Mağaza,1,1550,890,0
+SIP-00614,2025-01-31,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,2,1550,890,0.1
+SIP-00615,2025-11-14,Laptop,Elektronik,Karadeniz,Pazaryeri,3,29500,22900,0
+SIP-00616,2025-09-23,Çay,Gıda,Akdeniz,Pazaryeri,4,180,89,0
+SIP-00617,2025-10-13,Kalem Seti,Kırtasiye,İç Anadolu,Pazaryeri,5,270,125,0
+SIP-00618,2025-12-13,Laptop,Elektronik,Doğu Anadolu,Online,1,29500,22900,0
+SIP-00619,2025-06-26,Kitaplık,Mobilya,Ege,Mağaza,1,3250,2190,0
+SIP-00620,2025-09-25,Çalışma Masası,Mobilya,Marmara,Pazaryeri,2,8200,5780,0.15
+SIP-00621,2025-06-03,Ajanda,Kırtasiye,Akdeniz,Pazaryeri,1,378.0,181,0.15
+SIP-00622,2025-11-04,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,1,6700,4400,0.15
+SIP-00623,2025-01-05,Suluk,Yaşam,Marmara,Mağaza,1,320,145,0
+SIP-00624,2025-06-07,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,2,29500,22900,0
+SIP-00625,2025-04-24,Defter,Kırtasiye,İç Anadolu,Pazaryeri,1,123.5,64,0
+SIP-00626,2025-08-22,Ofis Sandalyesi,Mobilya,Marmara,Online,3,6700,4400,0.05
+SIP-00627,2025-04-11,Defter,Kırtasiye,İç Anadolu,Mağaza,4,130,64,0
+SIP-00628,2025-03-07,Kitaplık,Mobilya,İç Anadolu,Mağaza,4,3250,2190,0.1
+SIP-00629,2025-11-12,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,2,342.0,181,0.15
+SIP-00630,2025-01-31,Atıştırmalık,Gıda,Marmara,Pazaryeri,1,99.75,51,0.15
+SIP-00631,2025-06-11,Kalem Seti,Kırtasiye,İç Anadolu,Online,4,270,125,0
+SIP-00632,2025-02-15,Akıllı Saat,Elektronik,Marmara,Online,3,4900,3170,0.15
+SIP-00633,2025-11-11,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,2,1850,1120,0.1
+SIP-00634,2025-07-29,Çay,Gıda,Ege,Online,1,180,89,0.2
+SIP-00635,2025-07-09,Laptop,Elektronik,Akdeniz,Mağaza,2,30975.0,22900,0.05
+SIP-00636,2025-11-24,Kahve,Gıda,Karadeniz,Online,1,310,170,0
+SIP-00637,2025-02-14,Çalışma Masası,Mobilya,Doğu Anadolu,Online,1,7790.0,5780,0.2
+SIP-00638,2025-06-04,Ajanda,Kırtasiye,İç Anadolu,Mağaza,3,378.0,181,0
+SIP-00639,2025-12-13,Defter,Kırtasiye,Ege,Online,1,130,64,0
+SIP-00640,2025-11-09,Suluk,Yaşam,Doğu Anadolu,Pazaryeri,1,336.0,145,0
+SIP-00641,2025-07-29,Kitaplık,Mobilya,Karadeniz,Online,4,3250,2190,0
+SIP-00642,2025-11-17,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,2,270,125,0
+SIP-00643,2025-03-27,Çay,Gıda,Karadeniz,Pazaryeri,1,189.0,89,0.15
+SIP-00644,2025-02-15,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,1,270,125,0
+SIP-00645,2025-10-01,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Pazaryeri,5,6700,4400,0.05
+SIP-00646,2025-06-02,Ofis Sandalyesi,Mobilya,Karadeniz,Pazaryeri,2,6365.0,4400,0
+SIP-00647,2025-06-30,Akıllı Saat,Elektronik,Ege,Mağaza,2,4900,3170,0
+SIP-00648,2025-11-02,Atıştırmalık,Gıda,Ege,Pazaryeri,1,95,51,0
+SIP-00649,2025-12-27,Termos,Yaşam,Karadeniz,Pazaryeri,3,780,410,0.2
+SIP-00650,2025-09-06,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,360,181,0.15
+SIP-00651,2025-09-11,Kitaplık,Mobilya,Ege,Mağaza,2,3250,2190,0.1
+SIP-00652,2025-09-03,Kitaplık,Mobilya,Karadeniz,Mağaza,3,3250,2190,0
+SIP-00653,2025-09-10,Defter,Kırtasiye,İç Anadolu,Online,1,130,64,0.2
+SIP-00654,2025-07-05,Laptop,Elektronik,Doğu Anadolu,Online,3,29500,22900,0
+SIP-00655,2025-04-26,Defter,Kırtasiye,Doğu Anadolu,Mağaza,1,130,64,0
+SIP-00656,2025-12-10,Kahve,Gıda,İç Anadolu,Online,1,294.5,170,0
+SIP-00657,2025-12-10,Kitaplık,Mobilya,Doğu Anadolu,Online,1,3250,2190,0
+SIP-00658,2025-03-05,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,1,1850,1120,0
+SIP-00659,2025-04-10,Kahve,Gıda,Güneydoğu Anadolu,Pazaryeri,4,310,170,0.05
+SIP-00660,2025-05-18,Termos,Yaşam,Karadeniz,Mağaza,4,780,410,0
+SIP-00661,2025-11-06,Ajanda,Kırtasiye,Doğu Anadolu,Mağaza,1,378.0,181,0.2
+SIP-00662,2025-07-11,Defter,Kırtasiye,Doğu Anadolu,Mağaza,4,123.5,64,0.1
+SIP-00663,2025-01-01,Çay,Gıda,Karadeniz,Mağaza,4,171.0,89,0.05
+SIP-00664,2025-05-08,Suluk,Yaşam,Karadeniz,Mağaza,2,304.0,145,0.05
+SIP-00665,2025-05-28,Defter,Kırtasiye,İç Anadolu,Online,2,130,64,0.05
+SIP-00666,2025-09-16,Çay,Gıda,Akdeniz,Mağaza,2,189.0,89,0.15
+SIP-00667,2025-02-12,Defter,Kırtasiye,İç Anadolu,Pazaryeri,1,130,64,0
+SIP-00668,2025-07-09,Kahve,Gıda,Güneydoğu Anadolu,Online,3,310,170,0
+SIP-00669,2025-12-14,Atıştırmalık,Gıda,İç Anadolu,Online,4,90.25,51,0
+SIP-00670,2025-07-02,Sırt Çantası,Yaşam,Akdeniz,Pazaryeri,1,1472.5,890,0.05
+SIP-00671,2025-08-05,Çay,Gıda,Karadeniz,Online,3,180,89,0
+SIP-00672,2025-02-09,Termos,Yaşam,Marmara,Mağaza,3,741.0,410,0.1
+SIP-00673,2025-12-07,Kalem Seti,Kırtasiye,Marmara,Mağaza,2,270,125,0
+SIP-00674,2025-07-11,Laptop,Elektronik,Güneydoğu Anadolu,Pazaryeri,4,29500,22900,0
+SIP-00675,2025-07-09,Akıllı Saat,Elektronik,Akdeniz,Online,2,4900,3170,0.15
+SIP-00676,2025-02-05,Çay,Gıda,Ege,Mağaza,2,189.0,89,0
+SIP-00677,2025-12-15,Defter,Kırtasiye,İç Anadolu,Mağaza,2,136.5,64,0
+SIP-00678,2025-08-01,Kahve,Gıda,Doğu Anadolu,Mağaza,4,310,170,0.1
+SIP-00679,2025-12-06,Kahve,Gıda,Doğu Anadolu,Online,2,294.5,170,0.15
+SIP-00680,2025-12-16,Sırt Çantası,Yaşam,Ege,Online,1,1472.5,890,0
+SIP-00681,2025-04-10,Suluk,Yaşam,Ege,Mağaza,2,320,145,0
+SIP-00682,2025-01-13,Kalem Seti,Kırtasiye,İç Anadolu,Pazaryeri,2,270,125,0.15
+SIP-00683,2025-07-15,Çalışma Masası,Mobilya,Karadeniz,Online,1,8200,5780,0
+SIP-00684,2025-12-11,Kulaklık,Elektronik,Doğu Anadolu,Online,1,1850,1120,0.15
+SIP-00685,2025-01-12,Kulaklık,Elektronik,Marmara,Pazaryeri,5,1850,1120,0.05
+SIP-00686,2025-07-27,Kahve,Gıda,Marmara,Pazaryeri,1,325.5,170,0
+SIP-00687,2025-10-28,Kitaplık,Mobilya,Akdeniz,Mağaza,1,3412.5,2190,0.1
+SIP-00688,2025-09-23,Kahve,Gıda,Karadeniz,Pazaryeri,2,310,170,0.15
+SIP-00689,2025-11-05,Atıştırmalık,Gıda,Marmara,Mağaza,2,90.25,51,0.15
+SIP-00690,2025-05-04,Atıştırmalık,Gıda,Ege,Pazaryeri,1,95,51,0.05
+SIP-00691,2025-09-27,Laptop,Elektronik,Marmara,Online,2,29500,22900,0.05
+SIP-00692,2025-01-03,Kalem Seti,Kırtasiye,Karadeniz,Mağaza,1,283.5,125,0
+SIP-00693,2025-01-03,Suluk,Yaşam,Doğu Anadolu,Online,1,320,145,0.1
+SIP-00694,2025-04-16,Kahve,Gıda,Marmara,Mağaza,1,310,170,0
+SIP-00695,2025-03-26,Akıllı Saat,Elektronik,Ege,Online,2,4655.0,3170,0.1
+SIP-00696,2025-02-12,Çalışma Masası,Mobilya,Doğu Anadolu,Pazaryeri,2,8200,5780,0.1
+SIP-00697,2025-05-22,Kulaklık,Elektronik,Doğu Anadolu,Pazaryeri,1,1757.5,1120,0.1
+SIP-00698,2025-01-22,Kahve,Gıda,Doğu Anadolu,Pazaryeri,1,294.5,170,0.15
+SIP-00699,2025-12-05,Ajanda,Kırtasiye,Ege,Online,2,360,181,0.1
+SIP-00700,2025-05-27,Laptop,Elektronik,Akdeniz,Online,3,29500,22900,0.05
+SIP-00701,2025-01-12,Ofis Sandalyesi,Mobilya,İç Anadolu,Mağaza,2,6700,4400,0.1
+SIP-00702,2025-07-31,Kahve,Gıda,Akdeniz,Mağaza,3,310,170,0
+SIP-00703,2025-09-30,Sırt Çantası,Yaşam,Ege,Pazaryeri,1,1550,890,0.05
+SIP-00704,2025-05-06,Suluk,Yaşam,Marmara,Online,4,320,145,0.15
+SIP-00705,2025-08-07,Kahve,Gıda,Karadeniz,Online,3,294.5,170,0
+SIP-00706,2025-04-05,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,2,360,181,0.2
+SIP-00707,2025-05-05,Kahve,Gıda,Marmara,Mağaza,2,310,170,0
+SIP-00708,2025-02-22,Laptop,Elektronik,Ege,Pazaryeri,1,29500,22900,0.1
+SIP-00709,2025-01-28,Ofis Sandalyesi,Mobilya,Ege,Mağaza,1,6700,4400,0.05
+SIP-00710,2025-11-06,Atıştırmalık,Gıda,Marmara,Online,2,95,51,0
+SIP-00711,2025-02-25,Suluk,Yaşam,Doğu Anadolu,Mağaza,2,320,145,0.1
+SIP-00712,2025-03-10,Kahve,Gıda,Doğu Anadolu,Mağaza,1,310,170,0.2
+SIP-00713,2025-08-11,Çay,Gıda,Karadeniz,Online,4,189.0,89,0.05
+SIP-00714,2025-01-15,Kulaklık,Elektronik,Marmara,Mağaza,2,1942.5,1120,0.05
+SIP-00715,2025-03-08,Termos,Yaşam,Akdeniz,Pazaryeri,1,780,410,0.05
+SIP-00716,2025-07-11,Akıllı Saat,Elektronik,Ege,Mağaza,2,4655.0,3170,0.05
+SIP-00717,2025-08-18,Ajanda,Kırtasiye,İç Anadolu,Pazaryeri,2,378.0,181,0.15
+SIP-00718,2025-12-27,Kalem Seti,Kırtasiye,İç Anadolu,Online,3,270,125,0
+SIP-00719,2025-01-29,Suluk,Yaşam,Akdeniz,Pazaryeri,4,320,145,0.05
+SIP-00720,2025-11-08,Ofis Sandalyesi,Mobilya,İç Anadolu,Pazaryeri,1,6700,4400,0
+SIP-00721,2025-07-07,Çalışma Masası,Mobilya,Marmara,Mağaza,2,8200,5780,0
+SIP-00722,2025-12-14,Kitaplık,Mobilya,Doğu Anadolu,Online,1,3250,2190,0.1
+SIP-00723,2025-10-23,Laptop,Elektronik,Doğu Anadolu,Online,3,29500,22900,0
+SIP-00724,2025-12-09,Laptop,Elektronik,Marmara,Online,1,29500,22900,0.15
+SIP-00725,2025-10-05,Laptop,Elektronik,Marmara,Online,1,29500,22900,0.05
+SIP-00726,2025-12-27,Kitaplık,Mobilya,Güneydoğu Anadolu,Online,1,3250,2190,0
+SIP-00727,2025-01-18,Çalışma Masası,Mobilya,İç Anadolu,Online,1,8200,5780,0.1
+SIP-00728,2025-07-08,Çalışma Masası,Mobilya,Ege,Mağaza,1,7790.0,5780,0.05
+SIP-00729,2025-01-01,Çay,Gıda,Doğu Anadolu,Pazaryeri,1,189.0,89,0
+SIP-00730,2025-03-31,Atıştırmalık,Gıda,Karadeniz,Mağaza,1,95,51,0
+SIP-00731,2025-06-02,Ajanda,Kırtasiye,Karadeniz,Pazaryeri,2,360,181,0.1
+SIP-00732,2025-12-14,Kahve,Gıda,Doğu Anadolu,Mağaza,1,310,170,0
+SIP-00733,2025-02-17,Akıllı Saat,Elektronik,İç Anadolu,Online,3,4900,3170,0
+SIP-00734,2025-10-30,Ofis Sandalyesi,Mobilya,Akdeniz,Mağaza,2,6365.0,4400,0.05
+SIP-00735,2025-09-27,Çalışma Masası,Mobilya,İç Anadolu,Pazaryeri,2,7790.0,5780,0.1
+SIP-00736,2025-03-04,Kulaklık,Elektronik,Karadeniz,Online,2,1850,1120,0.1
+SIP-00737,2025-04-27,Laptop,Elektronik,İç Anadolu,Pazaryeri,1,29500,22900,0
+SIP-00738,2025-03-02,Kalem Seti,Kırtasiye,Karadeniz,Online,3,256.5,125,0
+SIP-00739,2025-10-13,Termos,Yaşam,Marmara,Mağaza,2,780,410,0.1
+SIP-00740,2025-07-31,Kulaklık,Elektronik,Akdeniz,Pazaryeri,1,1757.5,1120,0.15
+SIP-00741,2025-01-05,Çalışma Masası,Mobilya,Doğu Anadolu,Pazaryeri,1,8200,5780,0
+SIP-00742,2025-04-26,Suluk,Yaşam,Ege,Online,3,336.0,145,0.05
+SIP-00743,2025-04-07,Çalışma Masası,Mobilya,İç Anadolu,Pazaryeri,2,8200,5780,0.05
+SIP-00744,2025-05-03,Akıllı Saat,Elektronik,Akdeniz,Mağaza,3,4655.0,3170,0
+SIP-00745,2025-08-11,Defter,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,130,64,0
+SIP-00746,2025-12-18,Kitaplık,Mobilya,İç Anadolu,Pazaryeri,3,3250,2190,0.1
+SIP-00747,2025-02-04,Kalem Seti,Kırtasiye,Ege,Online,5,283.5,125,0.15
+SIP-00748,2025-06-11,Atıştırmalık,Gıda,İç Anadolu,Online,2,99.75,51,0.05
+SIP-00749,2025-11-09,Akıllı Saat,Elektronik,İç Anadolu,Mağaza,3,4900,3170,0
+SIP-00750,2025-10-02,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Mağaza,2,8610.0,5780,0.05
+SIP-00751,2025-08-16,Termos,Yaşam,Marmara,Online,3,780,410,0.1
+SIP-00752,2025-04-20,Çalışma Masası,Mobilya,Karadeniz,Mağaza,4,8200,5780,0.1
+SIP-00753,2025-04-18,Suluk,Yaşam,Ege,Pazaryeri,3,320,145,0.05
+SIP-00754,2025-05-18,Termos,Yaşam,Doğu Anadolu,Pazaryeri,1,819.0,410,0
+SIP-00755,2025-06-15,Akıllı Saat,Elektronik,Ege,Online,1,5145.0,3170,0
+SIP-00756,2025-05-02,Sırt Çantası,Yaşam,Doğu Anadolu,Mağaza,1,1472.5,890,0.1
+SIP-00757,2025-11-20,Kulaklık,Elektronik,Güneydoğu Anadolu,Pazaryeri,2,1850,1120,0
+SIP-00758,2025-10-01,Kalem Seti,Kırtasiye,Akdeniz,Online,3,270,125,0
+SIP-00759,2025-03-09,Akıllı Saat,Elektronik,İç Anadolu,Mağaza,1,4900,3170,0
+SIP-00760,2025-03-27,Suluk,Yaşam,Marmara,Mağaza,2,320,145,0
+SIP-00761,2025-09-29,Suluk,Yaşam,Marmara,Mağaza,1,336.0,145,0.15
+SIP-00762,2025-02-19,Atıştırmalık,Gıda,Ege,Mağaza,2,95,51,0.1
+SIP-00763,2025-04-18,Atıştırmalık,Gıda,Akdeniz,Pazaryeri,3,95,51,0.1
+SIP-00764,2025-04-24,Atıştırmalık,Gıda,Doğu Anadolu,Pazaryeri,5,95,51,0.1
+SIP-00765,2025-02-21,Kitaplık,Mobilya,Ege,Online,1,3087.5,2190,0
+SIP-00766,2025-09-23,Termos,Yaşam,Akdeniz,Mağaza,1,780,410,0
+SIP-00767,2025-10-12,Ofis Sandalyesi,Mobilya,Marmara,Pazaryeri,2,6700,4400,0
+SIP-00768,2025-01-31,Ofis Sandalyesi,Mobilya,Ege,Mağaza,1,6365.0,4400,0.15
+SIP-00769,2025-08-28,Atıştırmalık,Gıda,Güneydoğu Anadolu,Online,2,95,51,0
+SIP-00770,2025-05-07,Çalışma Masası,Mobilya,Ege,Online,2,8200,5780,0.05
+SIP-00771,2025-03-16,Suluk,Yaşam,Güneydoğu Anadolu,Mağaza,3,304.0,145,0.15
+SIP-00772,2025-05-23,Suluk,Yaşam,Karadeniz,Mağaza,2,320,145,0
+SIP-00773,2025-12-30,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Pazaryeri,2,4655.0,3170,0.2
+SIP-00774,2025-09-02,Termos,Yaşam,Marmara,Pazaryeri,2,780,410,0.05
+SIP-00775,2025-07-26,Atıştırmalık,Gıda,Akdeniz,Mağaza,1,90.25,51,0.05
+SIP-00776,2025-10-21,Kulaklık,Elektronik,Doğu Anadolu,Pazaryeri,2,1850,1120,0
+SIP-00777,2025-04-01,Suluk,Yaşam,Doğu Anadolu,Mağaza,2,336.0,145,0.05
+SIP-00778,2025-11-16,Akıllı Saat,Elektronik,Akdeniz,Pazaryeri,3,4655.0,3170,0.2
+SIP-00779,2025-07-05,Kahve,Gıda,Marmara,Mağaza,5,310,170,0
+SIP-00780,2025-12-20,Çay,Gıda,Güneydoğu Anadolu,Pazaryeri,2,180,89,0.05
+SIP-00781,2025-09-27,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,1,270,125,0
+SIP-00782,2025-05-09,Çay,Gıda,Güneydoğu Anadolu,Mağaza,1,189.0,89,0
+SIP-00783,2025-10-14,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,2,1757.5,1120,0
+SIP-00784,2025-11-15,Kulaklık,Elektronik,Ege,Pazaryeri,3,1850,1120,0.05
+SIP-00785,2025-12-30,Çay,Gıda,Ege,Online,2,180,89,0
+SIP-00786,2025-10-26,Çalışma Masası,Mobilya,İç Anadolu,Online,1,7790.0,5780,0
+SIP-00787,2025-11-27,Atıştırmalık,Gıda,Güneydoğu Anadolu,Mağaza,1,99.75,51,0.1
+SIP-00788,2025-07-09,Akıllı Saat,Elektronik,Karadeniz,Online,1,4900,3170,0
+SIP-00789,2025-05-12,Sırt Çantası,Yaşam,Karadeniz,Online,2,1472.5,890,0.05
+SIP-00790,2025-04-15,Ofis Sandalyesi,Mobilya,Karadeniz,Online,2,7035.0,4400,0.1
+SIP-00791,2025-09-03,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Pazaryeri,3,1550,890,0
+SIP-00792,2025-02-02,Laptop,Elektronik,Ege,Mağaza,1,30975.0,22900,0
+SIP-00793,2025-09-11,Sırt Çantası,Yaşam,Ege,Mağaza,1,1627.5,890,0
+SIP-00794,2025-09-11,Sırt Çantası,Yaşam,Marmara,Pazaryeri,1,1550,890,0.05
+SIP-00795,2025-08-14,Suluk,Yaşam,Karadeniz,Pazaryeri,3,336.0,145,0.1
+SIP-00796,2025-05-09,Laptop,Elektronik,Ege,Online,2,29500,22900,0.1
+SIP-00797,2025-03-14,Çalışma Masası,Mobilya,Karadeniz,Online,1,7790.0,5780,0.1
+SIP-00798,2025-06-30,Akıllı Saat,Elektronik,Marmara,Mağaza,1,4900,3170,0
+SIP-00799,2025-08-05,Kulaklık,Elektronik,Ege,Online,4,1757.5,1120,0.05
+SIP-00800,2025-07-22,Laptop,Elektronik,Marmara,Pazaryeri,1,28025.0,22900,0.05
+SIP-00801,2025-12-27,Kalem Seti,Kırtasiye,Ege,Mağaza,2,270,125,0
+SIP-00802,2025-06-16,Kahve,Gıda,Doğu Anadolu,Pazaryeri,1,310,170,0.2
+SIP-00803,2025-01-07,Kahve,Gıda,Güneydoğu Anadolu,Pazaryeri,1,294.5,170,0.05
+SIP-00804,2025-04-12,Termos,Yaşam,İç Anadolu,Online,2,819.0,410,0
+SIP-00805,2025-06-30,Termos,Yaşam,Karadeniz,Pazaryeri,2,780,410,0.05
+SIP-00806,2025-10-18,Kitaplık,Mobilya,Marmara,Online,4,3250,2190,0
+SIP-00807,2025-05-06,Kulaklık,Elektronik,İç Anadolu,Online,1,1850,1120,0
+SIP-00808,2025-01-04,Kitaplık,Mobilya,Marmara,Pazaryeri,4,3250,2190,0.15
+SIP-00809,2025-03-10,Sırt Çantası,Yaşam,Marmara,Pazaryeri,4,1627.5,890,0.05
+SIP-00810,2025-03-22,Çalışma Masası,Mobilya,Karadeniz,Online,2,8610.0,5780,0
+SIP-00811,2025-01-25,Defter,Kırtasiye,Akdeniz,Pazaryeri,2,130,64,0.15
+SIP-00812,2025-05-18,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Pazaryeri,1,6700,4400,0.1
+SIP-00813,2025-08-26,Defter,Kırtasiye,Karadeniz,Pazaryeri,2,130,64,0
+SIP-00814,2025-11-16,Kalem Seti,Kırtasiye,Ege,Pazaryeri,2,270,125,0
+SIP-00815,2025-10-08,Kitaplık,Mobilya,Akdeniz,Pazaryeri,1,3087.5,2190,0.05
+SIP-00816,2025-01-14,Çay,Gıda,İç Anadolu,Online,2,180,89,0.1
+SIP-00817,2025-05-16,Ofis Sandalyesi,Mobilya,Marmara,Pazaryeri,3,6700,4400,0
+SIP-00818,2025-04-25,Kahve,Gıda,Güneydoğu Anadolu,Mağaza,1,325.5,170,0
+SIP-00819,2025-10-15,Çay,Gıda,İç Anadolu,Mağaza,1,171.0,89,0
+SIP-00820,2025-12-23,Kitaplık,Mobilya,Marmara,Pazaryeri,2,3250,2190,0
+SIP-00821,2025-03-08,Çay,Gıda,Marmara,Pazaryeri,1,171.0,89,0
+SIP-00822,2025-06-23,Çalışma Masası,Mobilya,Marmara,Online,5,8200,5780,0.15
+SIP-00823,2025-08-20,Kitaplık,Mobilya,Güneydoğu Anadolu,Mağaza,1,3250,2190,0.05
+SIP-00824,2025-11-08,Ajanda,Kırtasiye,Akdeniz,Mağaza,2,360,181,0.05
+SIP-00825,2025-02-28,Ajanda,Kırtasiye,Karadeniz,Online,2,360,181,0
+SIP-00826,2025-06-18,Ofis Sandalyesi,Mobilya,İç Anadolu,Mağaza,1,6365.0,4400,0.05
+SIP-00827,2025-01-17,Laptop,Elektronik,Marmara,Mağaza,3,30975.0,22900,0
+SIP-00828,2025-12-27,Kitaplık,Mobilya,Ege,Mağaza,1,3087.5,2190,0
+SIP-00829,2025-06-02,Ajanda,Kırtasiye,Doğu Anadolu,Online,1,360,181,0
+SIP-00830,2025-11-23,Ajanda,Kırtasiye,Ege,Online,3,342.0,181,0.15
+SIP-00831,2025-01-10,Akıllı Saat,Elektronik,Akdeniz,Online,1,4655.0,3170,0.2
+SIP-00832,2025-03-24,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,1,283.5,125,0
+SIP-00833,2025-07-15,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,1,283.5,125,0
+SIP-00834,2025-06-02,Kitaplık,Mobilya,İç Anadolu,Online,1,3250,2190,0.15
+SIP-00835,2025-08-14,Sırt Çantası,Yaşam,Karadeniz,Online,1,1550,890,0
+SIP-00836,2025-10-06,Kahve,Gıda,Akdeniz,Mağaza,2,325.5,170,0
+SIP-00837,2025-12-29,Suluk,Yaşam,Güneydoğu Anadolu,Online,2,336.0,145,0
+SIP-00838,2025-08-28,Atıştırmalık,Gıda,Karadeniz,Mağaza,2,95,51,0
+SIP-00839,2025-11-10,Defter,Kırtasiye,İç Anadolu,Online,5,136.5,64,0
+SIP-00840,2025-09-14,Defter,Kırtasiye,Marmara,Pazaryeri,4,123.5,64,0.1
+SIP-00841,2025-07-26,Ajanda,Kırtasiye,Ege,Mağaza,1,360,181,0.1
+SIP-00842,2025-05-29,Ajanda,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,3,360,181,0
+SIP-00843,2025-07-02,Akıllı Saat,Elektronik,Akdeniz,Online,1,4900,3170,0.05
+SIP-00844,2025-04-26,Sırt Çantası,Yaşam,Akdeniz,Online,4,1550,890,0.05
+SIP-00845,2025-09-14,Ajanda,Kırtasiye,Marmara,Pazaryeri,2,360,181,0.1
+SIP-00846,2025-10-21,Çay,Gıda,Akdeniz,Online,1,180,89,0.1
+SIP-00847,2025-02-01,Kulaklık,Elektronik,Marmara,Mağaza,1,1850,1120,0.15
+SIP-00848,2025-06-09,Sırt Çantası,Yaşam,Marmara,Pazaryeri,4,1627.5,890,0.1
+SIP-00849,2025-09-20,Kahve,Gıda,Ege,Online,2,325.5,170,0
+SIP-00850,2025-01-24,Akıllı Saat,Elektronik,Akdeniz,Online,1,5145.0,3170,0.05
+SIP-00851,2025-06-20,Akıllı Saat,Elektronik,Karadeniz,Online,4,4655.0,3170,0.15
+SIP-00852,2025-03-18,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,4,1550,890,0.05
+SIP-00853,2025-11-25,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,1,283.5,125,0.15
+SIP-00854,2025-02-05,Kitaplık,Mobilya,Akdeniz,Pazaryeri,1,3250,2190,0.1
+SIP-00855,2025-01-20,Akıllı Saat,Elektronik,Ege,Online,1,4655.0,3170,0
+SIP-00856,2025-11-25,Laptop,Elektronik,Doğu Anadolu,Pazaryeri,4,29500,22900,0
+SIP-00857,2025-11-11,Sırt Çantası,Yaşam,Karadeniz,Pazaryeri,2,1472.5,890,0.1
+SIP-00858,2025-05-20,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,4,270,125,0.1
+SIP-00859,2025-12-30,Laptop,Elektronik,Akdeniz,Mağaza,2,29500,22900,0.15
+SIP-00860,2025-02-12,Sırt Çantası,Yaşam,Marmara,Pazaryeri,1,1550,890,0.05
+SIP-00861,2025-03-07,Kitaplık,Mobilya,Ege,Online,4,3250,2190,0.15
+SIP-00862,2025-11-06,Termos,Yaşam,İç Anadolu,Online,1,819.0,410,0.1
+SIP-00863,2025-01-11,Ajanda,Kırtasiye,İç Anadolu,Mağaza,1,378.0,181,0.1
+SIP-00864,2025-11-10,Akıllı Saat,Elektronik,Marmara,Pazaryeri,2,4900,3170,0
+SIP-00865,2025-03-25,Termos,Yaşam,Marmara,Online,2,741.0,410,0.1
+SIP-00866,2025-08-06,Laptop,Elektronik,Ege,Pazaryeri,1,29500,22900,0.05
+SIP-00867,2025-11-21,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Pazaryeri,1,4900,3170,0
+SIP-00868,2025-11-13,Akıllı Saat,Elektronik,Marmara,Mağaza,1,4655.0,3170,0.05
+SIP-00869,2025-01-29,Kahve,Gıda,Akdeniz,Online,1,294.5,170,0.05
+SIP-00870,2025-03-28,Çay,Gıda,Akdeniz,Mağaza,1,180,89,0.05
+SIP-00871,2025-01-08,Kahve,Gıda,Marmara,Mağaza,2,310,170,0.1
+SIP-00872,2025-01-30,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,1,7790.0,5780,0
+SIP-00873,2025-06-09,Ajanda,Kırtasiye,İç Anadolu,Mağaza,2,360,181,0.05
+SIP-00874,2025-03-22,Akıllı Saat,Elektronik,Marmara,Pazaryeri,2,4900,3170,0.05
+SIP-00875,2025-01-14,Kitaplık,Mobilya,Akdeniz,Mağaza,3,3250,2190,0.1
+SIP-00876,2025-06-17,Ajanda,Kırtasiye,Marmara,Online,2,360,181,0.05
+SIP-00877,2025-06-10,Laptop,Elektronik,Marmara,Mağaza,1,30975.0,22900,0.05
+SIP-00878,2025-07-18,Akıllı Saat,Elektronik,İç Anadolu,Online,1,5145.0,3170,0
+SIP-00879,2025-09-23,Ofis Sandalyesi,Mobilya,Marmara,Online,1,6365.0,4400,0.1
+SIP-00880,2025-11-11,Kahve,Gıda,İç Anadolu,Mağaza,1,310,170,0.05
+SIP-00881,2025-11-08,Atıştırmalık,Gıda,Karadeniz,Online,2,95,51,0.1
+SIP-00882,2025-04-28,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,1,270,125,0
+SIP-00883,2025-10-13,Çalışma Masası,Mobilya,Akdeniz,Online,2,8200,5780,0.1
+SIP-00884,2025-02-07,Suluk,Yaşam,Ege,Online,1,320,145,0.1
+SIP-00885,2025-08-20,Akıllı Saat,Elektronik,Doğu Anadolu,Online,1,4900,3170,0
+SIP-00886,2025-04-20,Kitaplık,Mobilya,Akdeniz,Mağaza,1,3412.5,2190,0.2
+SIP-00887,2025-09-09,Akıllı Saat,Elektronik,Ege,Mağaza,3,4900,3170,0
+SIP-00888,2025-03-01,Termos,Yaşam,Güneydoğu Anadolu,Online,1,780,410,0.2
+SIP-00889,2025-06-28,Kulaklık,Elektronik,Doğu Anadolu,Mağaza,1,1850,1120,0.1
+SIP-00890,2025-01-06,Termos,Yaşam,Marmara,Pazaryeri,2,741.0,410,0.05
+SIP-00891,2025-11-29,Laptop,Elektronik,Marmara,Pazaryeri,2,29500,22900,0.05
+SIP-00892,2025-11-16,Suluk,Yaşam,Akdeniz,Mağaza,1,304.0,145,0
+SIP-00893,2025-10-14,Laptop,Elektronik,İç Anadolu,Online,1,29500,22900,0
+SIP-00894,2025-01-02,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,1,1627.5,890,0
+SIP-00895,2025-08-31,Laptop,Elektronik,Karadeniz,Pazaryeri,5,29500,22900,0.1
+SIP-00896,2025-08-19,Kulaklık,Elektronik,Güneydoğu Anadolu,Mağaza,1,1850,1120,0
+SIP-00897,2025-01-12,Termos,Yaşam,Marmara,Pazaryeri,1,780,410,0.15
+SIP-00898,2025-09-28,Akıllı Saat,Elektronik,Güneydoğu Anadolu,Online,1,4900,3170,0
+SIP-00899,2025-08-26,Kahve,Gıda,İç Anadolu,Online,2,325.5,170,0.2
+SIP-00900,2025-07-18,Kitaplık,Mobilya,Marmara,Online,3,3087.5,2190,0
+SIP-00901,2025-02-23,Ofis Sandalyesi,Mobilya,Karadeniz,Online,1,6700,4400,0
+SIP-00902,2025-02-16,Kahve,Gıda,İç Anadolu,Pazaryeri,3,294.5,170,0.15
+SIP-00903,2025-07-22,Laptop,Elektronik,Ege,Pazaryeri,2,29500,22900,0.15
+SIP-00904,2025-01-31,Kahve,Gıda,Ege,Mağaza,1,294.5,170,0.05
+SIP-00905,2025-12-16,Laptop,Elektronik,Akdeniz,Pazaryeri,1,30975.0,22900,0.05
+SIP-00906,2025-03-30,Laptop,Elektronik,Doğu Anadolu,Online,1,29500,22900,0
+SIP-00907,2025-03-20,Akıllı Saat,Elektronik,Ege,Pazaryeri,2,4900,3170,0.1
+SIP-00908,2025-01-27,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,2,1850,1120,0
+SIP-00909,2025-06-30,Sırt Çantası,Yaşam,Karadeniz,Pazaryeri,1,1550,890,0
+SIP-00910,2025-02-23,Sırt Çantası,Yaşam,Akdeniz,Online,1,1550,890,0
+SIP-00911,2025-05-09,Ajanda,Kırtasiye,Ege,Pazaryeri,3,378.0,181,0
+SIP-00912,2025-12-14,Defter,Kırtasiye,Marmara,Online,5,130,64,0.05
+SIP-00913,2025-03-29,Atıştırmalık,Gıda,Akdeniz,Online,5,95,51,0.05
+SIP-00914,2025-11-04,Ajanda,Kırtasiye,Doğu Anadolu,Online,2,360,181,0.15
+SIP-00915,2025-12-17,Ofis Sandalyesi,Mobilya,Karadeniz,Mağaza,1,6700,4400,0
+SIP-00916,2025-10-02,Termos,Yaşam,İç Anadolu,Mağaza,4,780,410,0
+SIP-00917,2025-05-12,Sırt Çantası,Yaşam,İç Anadolu,Pazaryeri,4,1550,890,0.05
+SIP-00918,2025-04-26,Suluk,Yaşam,Ege,Online,1,320,145,0
+SIP-00919,2025-03-13,Kulaklık,Elektronik,Marmara,Mağaza,3,1850,1120,0
+SIP-00920,2025-08-04,Sırt Çantası,Yaşam,Akdeniz,Online,1,1627.5,890,0.05
+SIP-00921,2025-01-13,Kahve,Gıda,Akdeniz,Mağaza,1,325.5,170,0.15
+SIP-00922,2025-05-10,Sırt Çantası,Yaşam,Ege,Pazaryeri,2,1550,890,0.15
+SIP-00923,2025-01-01,Çay,Gıda,Karadeniz,Online,1,171.0,89,0.05
+SIP-00924,2025-12-25,Defter,Kırtasiye,Doğu Anadolu,Mağaza,1,123.5,64,0
+SIP-00925,2025-05-04,Kalem Seti,Kırtasiye,Ege,Pazaryeri,3,270,125,0
+SIP-00926,2025-08-19,Suluk,Yaşam,Marmara,Mağaza,4,304.0,145,0.05
+SIP-00927,2025-08-20,Ofis Sandalyesi,Mobilya,Karadeniz,Mağaza,1,6700,4400,0.05
+SIP-00928,2025-03-23,Kitaplık,Mobilya,Akdeniz,Online,1,3250,2190,0
+SIP-00929,2025-03-22,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Online,1,6365.0,4400,0.15
+SIP-00930,2025-05-30,Çay,Gıda,Ege,Online,5,171.0,89,0.1
+SIP-00931,2025-01-24,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,1,8200,5780,0.05
+SIP-00932,2025-10-28,Akıllı Saat,Elektronik,Doğu Anadolu,Pazaryeri,5,4655.0,3170,0.05
+SIP-00933,2025-06-28,Atıştırmalık,Gıda,İç Anadolu,Online,1,95,51,0
+SIP-00934,2025-09-11,Kitaplık,Mobilya,Akdeniz,Mağaza,3,3250,2190,0.05
+SIP-00935,2025-05-21,Suluk,Yaşam,Akdeniz,Online,1,304.0,145,0.05
+SIP-00936,2025-02-09,Kalem Seti,Kırtasiye,Marmara,Mağaza,1,270,125,0.15
+SIP-00937,2025-01-03,Çay,Gıda,Karadeniz,Mağaza,3,171.0,89,0
+SIP-00938,2025-08-17,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,2,6700,4400,0
+SIP-00939,2025-08-26,Kahve,Gıda,Marmara,Pazaryeri,1,310,170,0
+SIP-00940,2025-06-01,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,2,29500,22900,0
+SIP-00941,2025-04-19,Çay,Gıda,Marmara,Pazaryeri,2,171.0,89,0.05
+SIP-00942,2025-01-28,Kahve,Gıda,İç Anadolu,Pazaryeri,1,310,170,0.15
+SIP-00943,2025-01-31,Atıştırmalık,Gıda,Akdeniz,Mağaza,1,90.25,51,0.15
+SIP-00944,2025-10-19,Suluk,Yaşam,İç Anadolu,Mağaza,1,320,145,0
+SIP-00945,2025-01-26,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,4,6700,4400,0
+SIP-00946,2025-08-16,Sırt Çantası,Yaşam,Marmara,Online,1,1550,890,0.05
+SIP-00947,2025-02-18,Sırt Çantası,Yaşam,İç Anadolu,Pazaryeri,1,1550,890,0
+SIP-00948,2025-09-11,Suluk,Yaşam,Doğu Anadolu,Mağaza,3,320,145,0.05
+SIP-00949,2025-12-23,Laptop,Elektronik,Akdeniz,Mağaza,1,29500,22900,0.1
+SIP-00950,2025-11-13,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,1,95,51,0
+SIP-00951,2025-04-05,Akıllı Saat,Elektronik,Ege,Mağaza,1,4900,3170,0
+SIP-00952,2025-04-13,Defter,Kırtasiye,Ege,Mağaza,1,130,64,0
+SIP-00953,2025-10-04,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,1,95,51,0
+SIP-00954,2025-08-13,Defter,Kırtasiye,Marmara,Online,2,130,64,0
+SIP-00955,2025-06-05,Termos,Yaşam,Doğu Anadolu,Online,1,819.0,410,0
+SIP-00956,2025-02-11,Kahve,Gıda,Akdeniz,Pazaryeri,1,310,170,0
+SIP-00957,2025-05-19,Ajanda,Kırtasiye,İç Anadolu,Pazaryeri,5,360,181,0.1
+SIP-00958,2025-11-09,Laptop,Elektronik,Ege,Pazaryeri,2,29500,22900,0
+SIP-00959,2025-09-20,Çalışma Masası,Mobilya,Doğu Anadolu,Online,2,8200,5780,0
+SIP-00960,2025-06-19,Sırt Çantası,Yaşam,İç Anadolu,Pazaryeri,1,1472.5,890,0.15
+SIP-00961,2025-07-22,Kahve,Gıda,Ege,Pazaryeri,2,310,170,0.1
+SIP-00962,2025-05-06,Kitaplık,Mobilya,Doğu Anadolu,Pazaryeri,1,3250,2190,0
+SIP-00963,2025-06-23,Laptop,Elektronik,İç Anadolu,Online,2,29500,22900,0.1
+SIP-00964,2025-02-09,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,1,1472.5,890,0
+SIP-00965,2025-07-16,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,1,270,125,0.05
+SIP-00966,2025-08-16,Atıştırmalık,Gıda,Akdeniz,Pazaryeri,1,99.75,51,0.05
+SIP-00967,2025-01-01,Kitaplık,Mobilya,Ege,Pazaryeri,1,3250,2190,0
+SIP-00968,2025-09-18,Kitaplık,Mobilya,Akdeniz,Mağaza,2,3250,2190,0.1
+SIP-00969,2025-03-14,Akıllı Saat,Elektronik,Karadeniz,Pazaryeri,1,4900,3170,0.1
+SIP-00970,2025-01-22,Çay,Gıda,Akdeniz,Mağaza,1,189.0,89,0
+SIP-00971,2025-05-09,Defter,Kırtasiye,Akdeniz,Pazaryeri,4,136.5,64,0
+SIP-00972,2025-10-23,Ofis Sandalyesi,Mobilya,Doğu Anadolu,Mağaza,2,6700,4400,0.05
+SIP-00973,2025-10-04,Kulaklık,Elektronik,Ege,Mağaza,2,1850,1120,0.1
+SIP-00974,2025-06-30,Kahve,Gıda,İç Anadolu,Mağaza,1,310,170,0.05
+SIP-00975,2025-03-04,Ajanda,Kırtasiye,Akdeniz,Online,3,360,181,0
+SIP-00976,2025-01-14,Çay,Gıda,Doğu Anadolu,Online,1,171.0,89,0
+SIP-00977,2025-12-29,Kulaklık,Elektronik,İç Anadolu,Pazaryeri,3,1850,1120,0.05
+SIP-00978,2025-12-31,Ajanda,Kırtasiye,Ege,Pazaryeri,3,342.0,181,0.2
+SIP-00979,2025-06-12,Çay,Gıda,Akdeniz,Pazaryeri,2,180,89,0.15
+SIP-00980,2025-03-10,Ajanda,Kırtasiye,Ege,Pazaryeri,3,360,181,0
+SIP-00981,2025-12-31,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,378.0,181,0
+SIP-00982,2025-07-28,Atıştırmalık,Gıda,Marmara,Mağaza,3,95,51,0
+SIP-00983,2025-07-11,Suluk,Yaşam,İç Anadolu,Online,4,320,145,0.1
+SIP-00984,2025-06-21,Çalışma Masası,Mobilya,Marmara,Mağaza,2,8200,5780,0.15
+SIP-00985,2025-11-04,Kahve,Gıda,Karadeniz,Online,4,310,170,0
+SIP-00986,2025-02-16,Defter,Kırtasiye,İç Anadolu,Mağaza,1,130,64,0.05
+SIP-00987,2025-06-15,Termos,Yaşam,Akdeniz,Online,3,741.0,410,0.15
+SIP-00988,2025-05-14,Laptop,Elektronik,Doğu Anadolu,Pazaryeri,2,29500,22900,0.15
+SIP-00989,2025-02-25,Ajanda,Kırtasiye,Doğu Anadolu,Mağaza,2,342.0,181,0.1
+SIP-00990,2025-05-28,Suluk,Yaşam,Güneydoğu Anadolu,Online,2,336.0,145,0.15
+SIP-00991,2025-07-21,Defter,Kırtasiye,Ege,Online,2,130,64,0.05
+SIP-00992,2025-05-21,Akıllı Saat,Elektronik,Akdeniz,Online,2,5145.0,3170,0
+SIP-00993,2025-06-15,Sırt Çantası,Yaşam,Marmara,Pazaryeri,1,1550,890,0.15
+SIP-00994,2025-11-16,Akıllı Saat,Elektronik,Karadeniz,Online,3,4900,3170,0
+SIP-00995,2025-04-02,Suluk,Yaşam,Karadeniz,Mağaza,1,320,145,0.05
+SIP-00996,2025-04-13,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,4,270,125,0
+SIP-00997,2025-03-20,Kitaplık,Mobilya,Güneydoğu Anadolu,Online,1,3250,2190,0
+SIP-00998,2025-12-30,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Pazaryeri,1,1550,890,0.1
+SIP-00999,2025-06-24,Akıllı Saat,Elektronik,Ege,Online,1,5145.0,3170,0.15
+SIP-01000,2025-01-07,Çalışma Masası,Mobilya,İç Anadolu,Mağaza,2,8200,5780,0.05
+SIP-01001,2025-11-22,Çay,Gıda,Marmara,Mağaza,2,171.0,89,0.2
+SIP-01002,2025-11-20,Kahve,Gıda,Güneydoğu Anadolu,Mağaza,1,310,170,0.15
+SIP-01003,2025-10-13,Kulaklık,Elektronik,Akdeniz,Mağaza,1,1942.5,1120,0.1
+SIP-01004,2025-04-07,Suluk,Yaşam,Güneydoğu Anadolu,Mağaza,1,320,145,0
+SIP-01005,2025-08-15,Atıştırmalık,Gıda,İç Anadolu,Online,2,95,51,0.2
+SIP-01006,2025-03-19,Kulaklık,Elektronik,Karadeniz,Pazaryeri,1,1757.5,1120,0.05
+SIP-01007,2025-09-02,Ofis Sandalyesi,Mobilya,İç Anadolu,Mağaza,2,6700,4400,0.1
+SIP-01008,2025-09-21,Ofis Sandalyesi,Mobilya,Marmara,Online,1,6700,4400,0
+SIP-01009,2025-12-19,Akıllı Saat,Elektronik,Karadeniz,Pazaryeri,2,4900,3170,0.1
+SIP-01010,2025-08-28,Kitaplık,Mobilya,Güneydoğu Anadolu,Online,2,3250,2190,0.2
+SIP-01011,2025-07-20,Termos,Yaşam,Güneydoğu Anadolu,Online,2,780,410,0
+SIP-01012,2025-05-01,Defter,Kırtasiye,Akdeniz,Pazaryeri,4,123.5,64,0
+SIP-01013,2025-10-27,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,5,95,51,0.05
+SIP-01014,2025-08-23,Laptop,Elektronik,Marmara,Mağaza,2,28025.0,22900,0.1
+SIP-01015,2025-02-27,Termos,Yaşam,Marmara,Pazaryeri,1,741.0,410,0.05
+SIP-01016,2025-07-11,Kalem Seti,Kırtasiye,Doğu Anadolu,Mağaza,2,270,125,0
+SIP-01017,2025-08-15,Çay,Gıda,Ege,Online,2,180,89,0
+SIP-01018,2025-12-06,Akıllı Saat,Elektronik,Karadeniz,Mağaza,2,5145.0,3170,0.1
+SIP-01019,2025-05-15,Atıştırmalık,Gıda,Akdeniz,Pazaryeri,2,90.25,51,0
+SIP-01020,2025-06-05,Sırt Çantası,Yaşam,Karadeniz,Mağaza,1,1627.5,890,0.1
+SIP-01021,2025-05-08,Ajanda,Kırtasiye,Marmara,Pazaryeri,1,342.0,181,0.05
+SIP-01022,2025-01-01,Suluk,Yaşam,Ege,Mağaza,1,320,145,0
+SIP-01023,2025-02-06,Suluk,Yaşam,Marmara,Pazaryeri,2,320,145,0
+SIP-01024,2025-06-28,Defter,Kırtasiye,Doğu Anadolu,Mağaza,1,130,64,0
+SIP-01025,2025-01-03,Kahve,Gıda,Karadeniz,Mağaza,2,310,170,0.1
+SIP-01026,2025-05-27,Kahve,Gıda,Marmara,Mağaza,2,294.5,170,0
+SIP-01027,2025-03-23,Çay,Gıda,Marmara,Online,1,180,89,0
+SIP-01028,2025-08-23,Laptop,Elektronik,İç Anadolu,Online,2,28025.0,22900,0
+SIP-01029,2025-02-11,Ofis Sandalyesi,Mobilya,Marmara,Pazaryeri,2,6365.0,4400,0
+SIP-01030,2025-01-31,Kitaplık,Mobilya,Karadeniz,Pazaryeri,2,3412.5,2190,0
+SIP-01031,2025-11-21,Kitaplık,Mobilya,Marmara,Online,3,3412.5,2190,0
+SIP-01032,2025-07-20,Kahve,Gıda,Akdeniz,Online,2,310,170,0.1
+SIP-01033,2025-12-21,Çay,Gıda,Karadeniz,Online,1,180,89,0
+SIP-01034,2025-10-16,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Mağaza,2,8200,5780,0.15
+SIP-01035,2025-10-26,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Mağaza,3,8200,5780,0
+SIP-01036,2025-06-05,Kitaplık,Mobilya,Marmara,Pazaryeri,1,3250,2190,0.1
+SIP-01037,2025-07-28,Sırt Çantası,Yaşam,Marmara,Online,3,1627.5,890,0.1
+SIP-01038,2025-10-06,Çalışma Masası,Mobilya,Ege,Pazaryeri,2,8200,5780,0.05
+SIP-01039,2025-12-21,Suluk,Yaşam,Doğu Anadolu,Pazaryeri,1,304.0,145,0
+SIP-01040,2025-03-08,Çalışma Masası,Mobilya,Ege,Mağaza,1,8200,5780,0
+SIP-01041,2025-08-13,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Pazaryeri,1,1472.5,890,0
+SIP-01042,2025-06-15,Laptop,Elektronik,Karadeniz,Online,1,28025.0,22900,0.05
+SIP-01043,2025-10-16,Kulaklık,Elektronik,Akdeniz,Mağaza,4,1850,1120,0.05
+SIP-01044,2025-07-19,Suluk,Yaşam,Doğu Anadolu,Online,2,320,145,0.05
+SIP-01045,2025-06-04,Suluk,Yaşam,Doğu Anadolu,Pazaryeri,1,304.0,145,0.1
+SIP-01046,2025-02-13,Ofis Sandalyesi,Mobilya,Karadeniz,Pazaryeri,1,7035.0,4400,0.05
+SIP-01047,2025-04-15,Ajanda,Kırtasiye,Marmara,Pazaryeri,1,360,181,0.15
+SIP-01048,2025-06-22,Laptop,Elektronik,Marmara,Online,2,29500,22900,0
+SIP-01049,2025-09-12,Laptop,Elektronik,Güneydoğu Anadolu,Mağaza,4,29500,22900,0.05
+SIP-01050,2025-05-18,Defter,Kırtasiye,Akdeniz,Mağaza,1,130,64,0.1
+SIP-01051,2025-06-22,Atıştırmalık,Gıda,Doğu Anadolu,Pazaryeri,1,99.75,51,0.05
+SIP-01052,2025-03-10,Kahve,Gıda,Güneydoğu Anadolu,Online,4,310,170,0.05
+SIP-01053,2025-08-07,Defter,Kırtasiye,İç Anadolu,Online,2,136.5,64,0
+SIP-01054,2025-11-12,Suluk,Yaşam,Akdeniz,Pazaryeri,1,320,145,0
+SIP-01055,2025-07-11,Kulaklık,Elektronik,Doğu Anadolu,Online,3,1757.5,1120,0.05
+SIP-01056,2025-06-27,Çay,Gıda,Ege,Mağaza,2,171.0,89,0
+SIP-01057,2025-07-10,Kalem Seti,Kırtasiye,Marmara,Mağaza,1,270,125,0.05
+SIP-01058,2025-07-30,Sırt Çantası,Yaşam,Doğu Anadolu,Pazaryeri,1,1550,890,0.1
+SIP-01059,2025-03-07,Defter,Kırtasiye,Marmara,Pazaryeri,1,123.5,64,0.1
+SIP-01060,2025-05-25,Kahve,Gıda,Marmara,Pazaryeri,3,310,170,0.1
+SIP-01061,2025-11-08,Suluk,Yaşam,Marmara,Pazaryeri,2,336.0,145,0
+SIP-01062,2025-02-08,Termos,Yaşam,Ege,Online,3,780,410,0
+SIP-01063,2025-11-22,Suluk,Yaşam,Karadeniz,Online,2,320,145,0.15
+SIP-01064,2025-04-12,Kahve,Gıda,Ege,Mağaza,1,310,170,0
+SIP-01065,2025-02-02,Laptop,Elektronik,Marmara,Pazaryeri,1,30975.0,22900,0
+SIP-01066,2025-12-17,Kitaplık,Mobilya,Akdeniz,Mağaza,1,3087.5,2190,0.1
+SIP-01067,2025-02-11,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Online,1,8610.0,5780,0
+SIP-01068,2025-03-30,Kahve,Gıda,Karadeniz,Pazaryeri,1,310,170,0.05
+SIP-01069,2025-04-10,Atıştırmalık,Gıda,İç Anadolu,Online,1,95,51,0.1
+SIP-01070,2025-02-07,Ofis Sandalyesi,Mobilya,Ege,Online,1,7035.0,4400,0
+SIP-01071,2025-05-14,Laptop,Elektronik,Ege,Pazaryeri,2,28025.0,22900,0.1
+SIP-01072,2025-09-29,Atıştırmalık,Gıda,Güneydoğu Anadolu,Mağaza,1,95,51,0.1
+SIP-01073,2025-09-05,Ajanda,Kırtasiye,Doğu Anadolu,Online,3,360,181,0
+SIP-01074,2025-07-12,Çalışma Masası,Mobilya,Ege,Online,2,8610.0,5780,0.05
+SIP-01075,2025-04-03,Ajanda,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,342.0,181,0.05
+SIP-01076,2025-12-26,Laptop,Elektronik,İç Anadolu,Pazaryeri,2,29500,22900,0
+SIP-01077,2025-06-11,Termos,Yaşam,Marmara,Mağaza,1,780,410,0
+SIP-01078,2025-08-16,Kitaplık,Mobilya,Doğu Anadolu,Pazaryeri,2,3250,2190,0
+SIP-01079,2025-12-19,Kulaklık,Elektronik,Ege,Mağaza,1,1850,1120,0.1
+SIP-01080,2025-08-06,Çalışma Masası,Mobilya,Ege,Mağaza,5,8200,5780,0.1
+SIP-01081,2025-05-11,Kahve,Gıda,Akdeniz,Online,1,310,170,0.15
+SIP-01082,2025-04-12,Ajanda,Kırtasiye,Güneydoğu Anadolu,Online,1,378.0,181,0.05
+SIP-01083,2025-12-21,Kulaklık,Elektronik,İç Anadolu,Online,2,1850,1120,0.1
+SIP-01084,2025-09-09,Termos,Yaşam,Güneydoğu Anadolu,Mağaza,5,819.0,410,0.1
+SIP-01085,2025-01-16,Kahve,Gıda,İç Anadolu,Mağaza,1,310,170,0.15
+SIP-01086,2025-06-16,Çay,Gıda,Ege,Pazaryeri,1,189.0,89,0
+SIP-01087,2025-02-05,Akıllı Saat,Elektronik,Doğu Anadolu,Mağaza,2,4900,3170,0.05
+SIP-01088,2025-09-16,Kulaklık,Elektronik,Karadeniz,Mağaza,2,1850,1120,0.05
+SIP-01089,2025-07-15,Defter,Kırtasiye,Ege,Mağaza,1,123.5,64,0
+SIP-01090,2025-08-21,Kalem Seti,Kırtasiye,Marmara,Online,3,270,125,0.1
+SIP-01091,2025-09-25,Kalem Seti,Kırtasiye,Ege,Mağaza,1,270,125,0.05
+SIP-01092,2025-02-28,Kahve,Gıda,Ege,Online,3,310,170,0.15
+SIP-01093,2025-09-17,Suluk,Yaşam,Doğu Anadolu,Online,2,320,145,0
+SIP-01094,2025-04-03,Kulaklık,Elektronik,Ege,Mağaza,1,1850,1120,0
+SIP-01095,2025-06-08,Termos,Yaşam,Ege,Online,1,819.0,410,0.05
+SIP-01096,2025-10-20,Ajanda,Kırtasiye,İç Anadolu,Online,1,360,181,0.05
+SIP-01097,2025-09-08,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,270,125,0.1
+SIP-01098,2025-10-06,Çalışma Masası,Mobilya,Doğu Anadolu,Online,1,8610.0,5780,0.15
+SIP-01099,2025-02-25,Laptop,Elektronik,Ege,Pazaryeri,2,28025.0,22900,0.1
+SIP-01100,2025-01-20,Kulaklık,Elektronik,Karadeniz,Pazaryeri,1,1850,1120,0
+SIP-01101,2025-08-02,Kulaklık,Elektronik,Güneydoğu Anadolu,Pazaryeri,1,1850,1120,0
+SIP-01102,2025-09-30,Laptop,Elektronik,Marmara,Online,2,30975.0,22900,0
+SIP-01103,2025-11-01,Ofis Sandalyesi,Mobilya,Karadeniz,Pazaryeri,4,6700,4400,0.05
+SIP-01104,2025-05-10,Çalışma Masası,Mobilya,Ege,Mağaza,1,8200,5780,0.05
+SIP-01105,2025-08-26,Defter,Kırtasiye,Karadeniz,Mağaza,3,130,64,0
+SIP-01106,2025-07-01,Akıllı Saat,Elektronik,Marmara,Mağaza,5,4900,3170,0
+SIP-01107,2025-04-28,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,3,6700,4400,0.1
+SIP-01108,2025-12-06,Ofis Sandalyesi,Mobilya,İç Anadolu,Online,2,6700,4400,0.05
+SIP-01109,2025-07-09,Çalışma Masası,Mobilya,Karadeniz,Mağaza,1,8200,5780,0
+SIP-01110,2025-01-30,Defter,Kırtasiye,Ege,Mağaza,2,123.5,64,0.05
+SIP-01111,2025-04-28,Ajanda,Kırtasiye,İç Anadolu,Mağaza,1,378.0,181,0.05
+SIP-01112,2025-09-25,Ajanda,Kırtasiye,İç Anadolu,Online,3,342.0,181,0
+SIP-01113,2025-05-04,Laptop,Elektronik,Akdeniz,Online,2,29500,22900,0.15
+SIP-01114,2025-11-05,Çalışma Masası,Mobilya,Ege,Mağaza,1,8200,5780,0.2
+SIP-01115,2025-06-19,Defter,Kırtasiye,Güneydoğu Anadolu,Pazaryeri,2,136.5,64,0.05
+SIP-01116,2025-07-20,Kahve,Gıda,Güneydoğu Anadolu,Pazaryeri,4,325.5,170,0.1
+SIP-01117,2025-09-27,Ofis Sandalyesi,Mobilya,Akdeniz,Mağaza,3,6365.0,4400,0.15
+SIP-01118,2025-11-22,Kitaplık,Mobilya,Ege,Mağaza,2,3250,2190,0.1
+SIP-01119,2025-05-12,Kulaklık,Elektronik,Ege,Online,2,1757.5,1120,0
+SIP-01120,2025-04-09,Defter,Kırtasiye,Ege,Mağaza,3,136.5,64,0.1
+SIP-01121,2025-09-23,Kitaplık,Mobilya,Ege,Online,2,3250,2190,0
+SIP-01122,2025-11-10,Kalem Seti,Kırtasiye,İç Anadolu,Pazaryeri,1,283.5,125,0.05
+SIP-01123,2025-02-05,Ajanda,Kırtasiye,Doğu Anadolu,Pazaryeri,1,378.0,181,0.1
+SIP-01124,2025-07-01,Laptop,Elektronik,Doğu Anadolu,Mağaza,1,30975.0,22900,0.1
+SIP-01125,2025-11-13,Laptop,Elektronik,İç Anadolu,Pazaryeri,2,30975.0,22900,0
+SIP-01126,2025-09-05,Ajanda,Kırtasiye,Akdeniz,Online,1,360,181,0
+SIP-01127,2025-05-15,Akıllı Saat,Elektronik,Marmara,Online,2,4900,3170,0.1
+SIP-01128,2025-07-12,Çay,Gıda,Güneydoğu Anadolu,Mağaza,2,171.0,89,0.15
+SIP-01129,2025-02-05,Kitaplık,Mobilya,Doğu Anadolu,Mağaza,1,3250,2190,0
+SIP-01130,2025-08-18,Akıllı Saat,Elektronik,İç Anadolu,Pazaryeri,4,4655.0,3170,0.15
+SIP-01131,2025-04-23,Kitaplık,Mobilya,Ege,Online,2,3087.5,2190,0
+SIP-01132,2025-07-27,Defter,Kırtasiye,İç Anadolu,Online,2,130,64,0
+SIP-01133,2025-02-20,Atıştırmalık,Gıda,Karadeniz,Mağaza,1,90.25,51,0.05
+SIP-01134,2025-12-11,Termos,Yaşam,Doğu Anadolu,Mağaza,1,741.0,410,0
+SIP-01135,2025-12-16,Suluk,Yaşam,Doğu Anadolu,Online,2,320,145,0
+SIP-01136,2025-12-19,Çalışma Masası,Mobilya,Marmara,Online,2,8200,5780,0.05
+SIP-01137,2025-04-16,Kitaplık,Mobilya,Akdeniz,Online,1,3250,2190,0.1
+SIP-01138,2025-08-17,Laptop,Elektronik,Akdeniz,Pazaryeri,3,28025.0,22900,0.05
+SIP-01139,2025-02-28,Kitaplık,Mobilya,Güneydoğu Anadolu,Mağaza,1,3250,2190,0.05
+SIP-01140,2025-11-21,Defter,Kırtasiye,Karadeniz,Mağaza,1,130,64,0.15
+SIP-01141,2025-08-25,Kitaplık,Mobilya,Güneydoğu Anadolu,Pazaryeri,4,3250,2190,0.05
+SIP-01142,2025-01-18,Kalem Seti,Kırtasiye,Ege,Online,5,256.5,125,0.1
+SIP-01143,2025-09-13,Kitaplık,Mobilya,Karadeniz,Mağaza,1,3087.5,2190,0.15
+SIP-01144,2025-11-08,Termos,Yaşam,İç Anadolu,Pazaryeri,3,780,410,0
+SIP-01145,2025-11-20,Atıştırmalık,Gıda,Güneydoğu Anadolu,Pazaryeri,1,95,51,0.15
+SIP-01146,2025-07-06,Akıllı Saat,Elektronik,Ege,Mağaza,1,4900,3170,0.1
+SIP-01147,2025-12-06,Kulaklık,Elektronik,İç Anadolu,Online,1,1850,1120,0
+SIP-01148,2025-07-17,Çay,Gıda,Karadeniz,Pazaryeri,1,180,89,0.1
+SIP-01149,2025-03-16,Kalem Seti,Kırtasiye,Karadeniz,Mağaza,1,283.5,125,0
+SIP-01150,2025-08-26,Termos,Yaşam,İç Anadolu,Mağaza,1,741.0,410,0.15
+SIP-01151,2025-10-14,Ajanda,Kırtasiye,İç Anadolu,Mağaza,5,360,181,0.15
+SIP-01152,2025-12-10,Termos,Yaşam,Akdeniz,Mağaza,1,741.0,410,0
+SIP-01153,2025-05-31,Suluk,Yaşam,Marmara,Pazaryeri,4,320,145,0.1
+SIP-01154,2025-12-31,Termos,Yaşam,Güneydoğu Anadolu,Mağaza,1,780,410,0
+SIP-01155,2025-05-07,Akıllı Saat,Elektronik,Doğu Anadolu,Mağaza,1,4900,3170,0.1
+SIP-01156,2025-10-03,Laptop,Elektronik,Marmara,Mağaza,2,29500,22900,0
+SIP-01157,2025-05-07,Ajanda,Kırtasiye,Marmara,Online,1,360,181,0
+SIP-01158,2025-06-26,Kitaplık,Mobilya,Doğu Anadolu,Online,2,3412.5,2190,0.15
+SIP-01159,2025-10-29,Termos,Yaşam,Doğu Anadolu,Pazaryeri,1,780,410,0
+SIP-01160,2025-06-06,Kalem Seti,Kırtasiye,Ege,Online,1,256.5,125,0
+SIP-01161,2025-06-04,Sırt Çantası,Yaşam,Doğu Anadolu,Online,1,1550,890,0
+SIP-01162,2025-06-16,Defter,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,123.5,64,0.05
+SIP-01163,2025-05-22,Defter,Kırtasiye,Akdeniz,Pazaryeri,2,123.5,64,0.05
+SIP-01164,2025-03-06,Çalışma Masası,Mobilya,İç Anadolu,Online,1,8200,5780,0
+SIP-01165,2025-03-01,Atıştırmalık,Gıda,Akdeniz,Mağaza,5,90.25,51,0.2
+SIP-01166,2025-09-29,Çay,Gıda,Marmara,Online,1,180,89,0.1
+SIP-01167,2025-09-04,Defter,Kırtasiye,Karadeniz,Mağaza,2,136.5,64,0
+SIP-01168,2025-05-15,Kitaplık,Mobilya,Doğu Anadolu,Online,1,3250,2190,0.05
+SIP-01169,2025-10-04,Akıllı Saat,Elektronik,Karadeniz,Online,1,4655.0,3170,0.05
+SIP-01170,2025-06-14,Çalışma Masası,Mobilya,Güneydoğu Anadolu,Mağaza,1,8200,5780,0.15
+SIP-01171,2025-07-10,Akıllı Saat,Elektronik,Marmara,Mağaza,1,5145.0,3170,0.15
+SIP-01172,2025-07-21,Sırt Çantası,Yaşam,İç Anadolu,Pazaryeri,1,1550,890,0
+SIP-01173,2025-01-09,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Mağaza,1,256.5,125,0
+SIP-01174,2025-01-21,Kulaklık,Elektronik,Doğu Anadolu,Online,1,1850,1120,0.05
+SIP-01175,2025-11-19,Kahve,Gıda,Güneydoğu Anadolu,Mağaza,1,310,170,0
+SIP-01176,2025-03-04,Çay,Gıda,Marmara,Online,2,171.0,89,0.05
+SIP-01177,2025-04-21,Kulaklık,Elektronik,Marmara,Pazaryeri,1,1942.5,1120,0
+SIP-01178,2025-09-21,Çay,Gıda,Güneydoğu Anadolu,Pazaryeri,3,171.0,89,0.1
+SIP-01179,2025-03-20,Kahve,Gıda,Marmara,Online,1,294.5,170,0
+SIP-01180,2025-01-01,Ofis Sandalyesi,Mobilya,Güneydoğu Anadolu,Mağaza,4,6700,4400,0
+SIP-01181,2025-10-28,Çay,Gıda,Doğu Anadolu,Pazaryeri,2,180,89,0.1
+SIP-01182,2025-07-31,Kalem Seti,Kırtasiye,Güneydoğu Anadolu,Online,3,270,125,0
+SIP-01183,2025-03-28,Defter,Kırtasiye,Karadeniz,Online,1,123.5,64,0.05
+SIP-01184,2025-09-09,Kulaklık,Elektronik,İç Anadolu,Online,2,1850,1120,0.1
+SIP-01185,2025-12-11,Çalışma Masası,Mobilya,İç Anadolu,Pazaryeri,2,7790.0,5780,0
+SIP-01186,2025-04-10,Kahve,Gıda,Doğu Anadolu,Online,1,325.5,170,0
+SIP-01187,2025-11-15,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,2,99.75,51,0
+SIP-01188,2025-07-24,Kulaklık,Elektronik,Akdeniz,Pazaryeri,3,1757.5,1120,0.15
+SIP-01189,2025-06-01,Ajanda,Kırtasiye,İç Anadolu,Online,1,360,181,0.1
+SIP-01190,2025-09-04,Suluk,Yaşam,Marmara,Mağaza,2,320,145,0
+SIP-01191,2025-10-14,Atıştırmalık,Gıda,İç Anadolu,Pazaryeri,1,99.75,51,0
+SIP-01192,2025-06-11,Sırt Çantası,Yaşam,Marmara,Mağaza,1,1550,890,0
+SIP-01193,2025-01-17,Ofis Sandalyesi,Mobilya,Akdeniz,Pazaryeri,1,6700,4400,0
+SIP-01194,2025-02-15,Kalem Seti,Kırtasiye,Marmara,Pazaryeri,3,270,125,0.05
+SIP-01195,2025-03-04,Sırt Çantası,Yaşam,Güneydoğu Anadolu,Online,2,1627.5,890,0.05
+SIP-01196,2025-03-20,Suluk,Yaşam,Karadeniz,Pazaryeri,2,320,145,0.05
+SIP-01197,2025-04-16,Kahve,Gıda,Marmara,Pazaryeri,1,310,170,0.2
+SIP-01198,2025-01-19,Çay,Gıda,Akdeniz,Mağaza,4,180,89,0.15
+SIP-01199,2025-01-14,Ofis Sandalyesi,Mobilya,Karadeniz,Online,3,7035.0,4400,0.15
+SIP-01200,2025-10-21,Suluk,Yaşam,Doğu Anadolu,Mağaza,3,304.0,145,0.1
