@@ -1,69 +1,135 @@
-# Veri Pusula — Starter Pack
+# VeriPusula
 
-**Yapay zekâ destekli işletme performans ve karar destek sistemi**
+**Yapay zekâ destekli işletme performans ve karar destek asistanı**
 
-Bu paket 2025 yılına ait **1.200 sentetik sipariş**, 5 kategori, SQLite veri tabanı, Pandas ETL, SQL analizleri, Power BI DAX ölçüleri ve n8n Agent komutlarını içerir. Gerçek şirket verisi değildir.
+VeriPusula; satış verilerini Python ile temizleyen, SQLite ve SQL ile analiz eden, Power BI ile görselleştiren ve n8n üzerinden doğal dilde sorulara yanıt sunan bir portföy projesidir.
 
-## 1. Kurulum (Windows / VS Code)
-ZIP dosyasını açıp klasörü VS Code ile açın. Terminalde sırayla:
+Proje, 2025 yılına ait **1.200 sentetik sipariş** üzerinde geliştirilmiştir. Gerçek bir şirketin verilerini veya performansını temsil etmez.
+
+## Kullanılan teknolojiler
+
+| Teknoloji | Projedeki görevi |
+|---|---|
+| Python / Pandas | Veri temizleme, doğrulama ve gelir-kâr hesaplamaları |
+| SQLite / SQL | Verilerin saklanması ve KPI analizleri |
+| Power BI / DAX | Etkileşimli dashboard ve performans ölçüleri |
+| n8n / AI Agent | Araç kullanarak satış verileri hakkında soru-cevap |
+
+## Projenin aşamaları
+
+1. **ETL:** Ham CSV okunur; tarih ve sayısal alanlar dönüştürülür. Eksik, geçersiz ve yinelenen sipariş kayıtları elenir. Gelir ve kâr hesaplanır.
+2. **Veritabanı ve SQL:** Temiz veriler SQLite içindeki `sales` tablosuna yazılır. Genel KPI'lar, kategori, ay, bölge, satış kanalı ve ürün performansı sorgulanır.
+3. **Power BI:** Gelir, kâr, sipariş sayısı ve kâr marjı; grafikler ve dilimleyiciler aracılığıyla incelenir.
+4. **n8n AI Assistant:** Ana asistan, `VeriPusula_KPI_Engine` alt iş akışını çağırır. Alt iş akışı Data Table içindeki 1.200 satış kaydını alır ve Python Code adımında özetler. Asistan, araç çıktısına dayanarak yanıt üretir.
+
+**Entegrasyon notu:** n8n aşaması verilerin Data Table'a aktarılmış kopyasını kullanır. SQLite ile otomatik ve canlı senkronizasyon bu sürümde uygulanmamıştır.
+
+## Örnek sonuçlar
+
+| KPI | Değer |
+|---|---:|
+| Sipariş sayısı | 1.200 |
+| Toplam gelir | 9.778.484,01 TL |
+| Toplam kâr | 2.259.966,01 TL |
+| Kâr marjı | %23,11 |
+| En yüksek gelirli kategori | Elektronik |
+
+Elektronik kategorisinin geliri **6.757.359,99 TL**, kârı **1.344.369,99 TL**, kâr marjı **%19,89** olarak hesaplanmıştır.
+
+## Dosyalar ve klasörler
+
+Aşağıdaki yapı, depo için önerilen yerleşimdir. Dashboard, ekran görüntüleri ve n8n dışa aktarımları ilgili klasörlere ayrıca eklenir.
+
+| Yol | İçerik |
+|---|---|
+| `etl.py` | Python ETL kodu |
+| `requirements.txt` | Python bağımlılıkları |
+| `data/sales_data.csv` | Ham sentetik veri |
+| `data/clean_sales_data.csv` | Temizlenmiş veri ve hesaplanan alanlar |
+| `data/bizinsight.db` | SQLite veritabanı |
+| `sql/kpi_queries.sql` | SQLite analiz sorguları |
+| `powerbi/` | Power BI rapor dosyası |
+| `n8n/` | Ana asistan ve KPI Engine workflow JSON dosyaları |
+| `screenshots/` | Dashboard ve asistan demo ekran görüntüleri |
+
+## ETL kurulumu ve çalıştırma
+
+Python ve Pandas gereklidir. Depoyu indirdikten sonra proje klasöründe terminal açın:
 
 ```powershell
 python -m pip install -r requirements.txt
+```
+
+`requirements.txt` yoksa Pandas kurulumu için:
+
+```powershell
+python -m pip install "pandas<3.0"
+```
+
+### Dosya yolları
+
+İlk ETL sürümü, CSV ve veritabanını `etl.py` ile aynı klasörde arar/oluşturur. Yukarıdaki `data/` düzenini kullanmak için `etl.py` içindeki yol tanımlarını şu şekilde güncelleyin; mevcut `REQUIRED` listesi ve diğer kodlar aynı kalır:
+
+```python
+BASE = Path(__file__).resolve().parent
+DATA = BASE / "data"
+DATA.mkdir(parents=True, exist_ok=True)
+INPUT = DATA / "sales_data.csv"
+OUTPUT = DATA / "clean_sales_data.csv"
+DB = DATA / "bizinsight.db"
+```
+
+`data/sales_data.csv` mevcutken çalıştırın:
+
+```powershell
 python etl.py
 ```
 
-Windows'ta `python` tanınmıyorsa `py` ile deneyin. Başarı durumunda `ETL complete` yazacaktır. Dosyalar aynı klasörde kalmalıdır.
+Windows'ta `python` tanınmıyorsa `py` komutunu deneyin.
 
-## 2. Dosyalar
-- `sales_data.csv`: ham veri, 1200 sipariş
-- `clean_sales_data.csv`: ETL sonunda üretilmiş, hesaplanmış gelir/kâr sütunlu veri
-- `bizinsight.db`: `sales` tablosu (önceden hazırlanmış, ETL yeniden yaratır)
-- `etl.py`: tekrarlanabilir veri temizliği
-- `kpi_queries.sql`: KPI, trend, kategori, ürün analizleri
-- `powerbi_measures.dax`: Power BI ölçü tanımları
-- `analytics_api.py`: isteğe bağlı n8n araç uç noktaları
-- `n8n_agent_prompt.txt`: veri temelli asistan talimatları
-- `requirements.txt`: Pandas bağımlılığı
+ETL, temiz CSV'yi üretir ve veritabanındaki `sales` tablosunu yeniden oluşturur. Beklenen konsol çıktısı:
 
-## 3. Alanlar ve KPI tanımları
-- `order_id`: benzersiz sipariş kimliği (bu örnekte her satır bir sipariş)
-- `order_date`: sipariş tarihi; `year_month`: YYYY-AA
-- `product`, `category`, `region`, `sales_channel`: boyutlar
-- `quantity`: adet; `unit_price`, `unit_cost`: TL/adet
-- `discount_rate`: 0–1 arasında indirim oranı
-- `revenue = quantity * unit_price * (1 - discount_rate)`
-- `total_cost = quantity * unit_cost`
-- `profit = revenue - total_cost`
-- `profit_margin = SUM(profit) / SUM(revenue)` (satır marjlarının ortalaması değil)
-- `order_count = COUNT(DISTINCT order_id)`
-- `mom_growth = (bu ayın geliri - önceki ayın geliri) / önceki ayın geliri`
+```text
+ETL complete | Orders: 1200 | Total Revenue: 9,778,484.01 TRY | Total Profit: 2,259,966.01 TRY
+```
 
-Tüm fiyatlar Türk lirasıdır. Gelir KDV ayrımı içermez. İndirim sadece satış fiyatına uygulanmıştır, maliyete değil. Negatif kâr mümkün olabilir.
+## KPI hesaplamaları
 
-## 4. Power BI
-1. Power BI Desktop > Giriş > Veri Al > Metin/CSV > `clean_sales_data.csv`.
-2. Tabloya `sales` adını verin. `order_date` tarih, sayısal sütunlar sayı tipinde olmalı.
-3. Modelleme > Yeni ölçü: `powerbi_measures.dax` dosyasındaki ölçüleri **tek tek** ekleyin.
-4. Kartlar: Total Revenue, Total Profit, Order Count, Profit Margin %.
-5. Çizgi grafik: X `year_month`, Y `Total Revenue` ve `Total Profit`.
-6. Çubuk: Y `category`, X `Total Revenue`; ikinci görsel `Total Profit`.
-7. Çubuk: Y `product`, X `Total Revenue`; görsel filtresi Top N=5.
-8. Dilimleyiciler: `category`, `order_date`, `region`.
+- **Gelir:** `quantity * unit_price * (1 - discount_rate)`
+- **Toplam maliyet:** `quantity * unit_cost`
+- **Kâr:** `revenue - total_cost`
+- **Kâr marjı (%):** `100 * SUM(profit) / SUM(revenue)`
+- **Sipariş sayısı:** Benzersiz `order_id` sayısı; temiz veride her satır bir sipariştir.
 
-Power BI ondalık ayarları bilgisayarın diline göre virgül/nokta bekleyebilir; ölçü ayırıcılarını gerekirse yerel ayarlara göre değiştirin.
+Gelir ve maliyet satır bazında iki ondalığa yuvarlanır. İndirim satış fiyatına uygulanır. Kâr marjı, satır marjlarının ortalaması alınarak hesaplanmaz.
 
-## 5. SQL
-SQLite tarayıcısı (örn. DB Browser for SQLite) ile `bizinsight.db` açın. `kpi_queries.sql` içindeki sorguları sırayla çalıştırın. SQL/Power BI sonuçlarını karşılaştırın.
+## SQL analizleri
 
-## 6. n8n AI Agent: kontrollü araçlar
-Opsiyonel: `python analytics_api.py` komutunu çalıştırın. Dört salt okunur endpoint mevcut:
-- `http://127.0.0.1:8765/summary`
-- `http://127.0.0.1:8765/categories`
-- `http://127.0.0.1:8765/monthly`
-- `http://127.0.0.1:8765/top_products`
+SQLite destekleyen bir uygulamada `data/bizinsight.db` dosyasını açın ve `sql/kpi_queries.sql` içindeki sorguları ayrı ayrı çalıştırın.
 
-n8n Agent için `n8n_agent_prompt.txt` metnini system prompt olarak kullanın. n8n içinde dört HTTP Request aracını ilgili endpoint'e bağlayın; araç adlarını summary/categories/monthly/top_products olarak tanımlayın. **Önemli:** n8n Cloud `127.0.0.1` bilgisayarınıza erişemez. Bu yöntem yerel n8n ile çalışır. Bulut çözümünde güvenlik önlemleriyle ayrı bir HTTPS servis veya n8n içinde kayıtlı sabit sorgu adımları gerekir. Yerel API genel internete açılmamalıdır.
+Sorgu dosyası; genel KPI'ları, kategori ve aylık performansı, bölge ve satış kanalı analizlerini, en yüksek gelirli 10 ürünü ve 2025'in en yüksek/düşük gelirli aylarını içerir. Verileri değiştirmez.
 
-## 7. Demo ve sınırlar
-Sunum: ham CSV -> `python etl.py` -> SQLite sorgusu -> Power BI dashboard -> Agent soru-cevap. Örnek üç soru prompt dosyasında. Dataset sentetiktir: gerçek satış nedenleri veya şirket performansı hakkında iddia kurulamaz. Bu paket Power BI `.pbix` ya da tamamlanmış bir n8n workflow içermez, entegrasyon adımları ayrıca yapılır.
+## Power BI dashboard
 
+`data/clean_sales_data.csv` dosyası Power BI'a alınarak gelir, kâr ve kategori performansı görselleştirilmiştir. Dilimleyiciler sayesinde tarih, kategori ve bölge bazında inceleme yapılabilir.
+
+CSV içe aktarılırken tarih ve sayısal sütunların veri türleri ile ondalık ayarları kontrol edilmelidir. Bu projedeki mevcut Power BI modelinde `profit` alanı içe aktarım sırasında 100 kat büyük geldiği için `[Total Profit]` ölçüsünde 100'e bölme düzeltmesi kullanılmıştır. Bu düzeltme CSV veya SQLite verisine uygulanmamalıdır; yeni bir Power BI modelinde önce içe aktarılan değerler doğrulanmalıdır.
+
+## n8n demo
+
+Asistana sorulabilecek örnekler:
+
+- 2025 yılında en fazla gelir getiren kategori hangisi?
+- Elektronik kategorisinin toplam geliri, kârı ve kâr marjı nedir?
+- 2025'te en yüksek ve en düşük satış geliri hangi aylarda gerçekleşti?
+
+Workflow dosyaları, iş akışlarının yapısını paylaşmak içindir. Başka bir n8n ortamına aktarılırken model bağlantısı, Data Table seçimi ve alt iş akışı referansları yeniden yapılandırılmalıdır. Workflow JSON dosyaları tek başına Data Table'daki satış kayıtlarını taşımaz; veriler ayrıca içe aktarılmalıdır.
+
+API anahtarları ve şifreler depoya eklenmemelidir. Paylaşılan workflow dosyaları gizli bilgiler, özel bağlantılar ve kaydedilmiş örnek veriler açısından kontrol edilmelidir.
+
+## Sınırlar
+
+- Veriler sentetiktir; sonuçlar gerçek bir şirket hakkında çıkarım yapmak için kullanılamaz.
+- Dashboard ve asistan, kullanılan veri kopyalarının güncelliğine bağlıdır.
+- Asistanın sayısal yanıtları SQL veya dashboard sonuçlarıyla karşılaştırılarak doğrulanmalıdır.
+- Proje, tahminleme veya satış değişimlerinin nedenlerini kanıtlama iddiası taşımaz.
