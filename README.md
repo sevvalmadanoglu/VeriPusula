@@ -132,4 +132,15 @@ API anahtarları ve şifreler depoya eklenmemelidir. Paylaşılan workflow dosya
 - Veriler sentetiktir; sonuçlar gerçek bir şirket hakkında çıkarım yapmak için kullanılamaz.
 - Dashboard ve asistan, kullanılan veri kopyalarının güncelliğine bağlıdır.
 - Asistanın sayısal yanıtları SQL veya dashboard sonuçlarıyla karşılaştırılarak doğrulanmalıdır.
+
+- ## Proje Görselleri
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/dashboard.png)
+
+### n8n İş Akışı
+![n8n İş Akışı](screenshots/n8n-workflow.png)
+
+### AI Asistan Demo
+![AI Asistan Demo](screenshots/ai-demo.png)
 - Proje, tahminleme veya satış değişimlerinin nedenlerini kanıtlama iddiası taşımaz.
