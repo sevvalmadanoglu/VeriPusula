@@ -105,7 +105,7 @@ Gelir ve maliyet satır bazında iki ondalığa yuvarlanır. İndirim satış fi
 
 ## SQL analizleri
 
-SQLite destekleyen bir uygulamada `veripusula.db` dosyasını açın ve `sql/kpi_queries.sql` içindeki sorguları ayrı ayrı çalıştırın.
+SQLite destekleyen bir uygulama `data/veripusula.db` dosyasını açın ve `sql/kpi_queries.sql` içindeki sorguları ayrı ayrı çalıştırın.
 
 Sorgu dosyası; genel KPI'ları, kategori ve aylık performansı, bölge ve satış kanalı analizlerini, en yüksek gelirli 10 ürünü ve 2025'in en yüksek/düşük gelirli aylarını içerir. Verileri değiştirmez.
 
