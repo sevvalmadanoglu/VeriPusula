@@ -4,9 +4,13 @@ import sqlite3
 import pandas as pd
 
 BASE = Path(__file__).resolve().parent
-INPUT = BASE / "sales_data.csv"
-OUTPUT = BASE / "clean_sales_data.csv"
-DB = BASE / "bizinsight.db"
+DATA = BASE / "data"
+DATA.mkdir(parents=True, exist_ok=True)
+
+INPUT = DATA / "sales_data.csv"
+OUTPUT = DATA / "clean_sales_data.csv"
+DB = DATA / "veripusula.db"
+
 REQUIRED = ["order_id", "order_date", "product", "category", "region", "sales_channel", "quantity", "unit_price", "unit_cost", "discount_rate"]
 
 def run():
