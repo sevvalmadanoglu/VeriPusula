@@ -142,5 +142,7 @@ API anahtarları ve şifreler depoya eklenmemelidir. Paylaşılan workflow dosya
 ![n8n İş Akışı](screenshots/n8n-workflow.png)
 
 ### AI Asistan Demo
-![AI Asistan Demo](screenshots/ai-demo.png)
+![AI Asistan Demo](screenshots/ai-demo1.png)
+![AI Asistan Demo](screenshots/ai-demo2.png)
+![AI Asistan Demo](screenshots/ai-demo3.png)
 - Proje, tahminleme veya satış değişimlerinin nedenlerini kanıtlama iddiası taşımaz.
