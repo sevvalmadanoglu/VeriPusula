@@ -1,0 +1,157 @@
+{
+  "name": "VeriPusula AI Assistant",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.5,
+      "position": [
+        0,
+        0
+      ],
+      "id": "4d1f7462-4343-4338-9b63-6a037f58f31c",
+      "name": "When chat message received",
+      "webhookId": "1752780b-f6b4-4946-9cf4-6216bc69de64"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        224,
+        0
+      ],
+      "id": "d3f325c4-410e-4bce-a774-3c426dc63cbc",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-5-mini"
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        96,
+        208
+      ],
+      "id": "3791c553-cafd-40af-a09a-0eeca8aa408c",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": null,
+          "name": "",
+          "__aiGatewayManaged": true
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolThink",
+      "typeVersion": 1.1,
+      "position": [
+        448,
+        192
+      ],
+      "id": "8acacbca-d481-49d1-8517-22b905bb7978",
+      "name": "Think"
+    },
+    {
+      "parameters": {
+        "description": "Use this tool whenever the user asks about VeriPusula sales data, total revenue, total profit, profit margin, category performance, monthly sales, or top products. Retrieve the actual calculated KPI results. Never invent financial figures.",
+        "workflowId": {
+          "__rl": true,
+          "value": "8pQt6Em1hW9NzK6w",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/8pQt6Em1hW9NzK6w",
+          "cachedResultName": "VeriPusula_KPI_Engine"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.toolWorkflow",
+      "typeVersion": 2.2,
+      "position": [
+        352,
+        192
+      ],
+      "id": "2c7f11e1-c624-4e5b-827e-58b3f7aec6d6",
+      "name": "Call 'VeriPusula_KPI_Engine'"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Think": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'VeriPusula_KPI_Engine'": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "e4917035-b700-4bfd-a707-b93bf5363ee5",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "4e5bd37469412800e2c290650015be2447e2fd6d6e3ace91679aced19f7d23f7"
+  },
+  "nodeGroups": [],
+  "id": "1qOrhsuAXdyqji5n",
+  "tags": []
+}

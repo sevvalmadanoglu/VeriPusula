@@ -1,0 +1,90 @@
+{
+  "name": "VeriPusula_KPI_Engine",
+  "nodes": [
+    {
+      "parameters": {
+        "inputSource": "passthrough"
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        0,
+        0
+      ],
+      "id": "388f4312-5e75-4527-90de-73370556311a",
+      "name": "When Executed by Another Workflow"
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "dataTableId": {
+          "__rl": true,
+          "value": "MQc004XUzDVbYe2w",
+          "mode": "list",
+          "cachedResultName": "VeriPusula_Sales",
+          "cachedResultUrl": "/projects/bQJyUNd9HucDAvgz/datatables/MQc004XUzDVbYe2w"
+        },
+        "returnAll": true
+      },
+      "type": "n8n-nodes-base.dataTable",
+      "typeVersion": 1.1,
+      "position": [
+        224,
+        0
+      ],
+      "id": "66dc399d-b7c7-4dc9-b835-ee73b9e97cfc",
+      "name": "Get row(s)"
+    },
+    {
+      "parameters": {
+        "language": "pythonNative",
+        "pythonCode": "\n# VeriPusula - KPI Analysis Engine\n\nrows = [item[\"json\"] for item in _items]\n\nif not rows:\n    raise ValueError(\"Satis verisi bulunamadi\")\n\ntotal_revenue = 0\ntotal_profit = 0\norders = set()\n\ncategories = {}\nmonths = {}\nproducts = {}\n\ndef add_group(group, key, revenue, profit):\n    if key not in group:\n        group[key] = {\"revenue\": 0, \"profit\": 0}\n\n    group[key][\"revenue\"] += revenue\n    group[key][\"profit\"] += profit\n\n\nfor row in rows:\n    revenue = float(row[\"revenue\"])\n    profit = float(row[\"profit\"])\n\n    total_revenue += revenue\n    total_profit += profit\n    orders.add(row[\"order_id\"])\n\n    add_group(categories, row[\"category\"], revenue, profit)\n    add_group(months, row[\"year_month\"], revenue, profit)\n    add_group(products, row[\"product\"], revenue, profit)\n\n\ndef format_group(group, field):\n    result = []\n\n    for name, values in group.items():\n        rev = values[\"revenue\"]\n        pro = values[\"profit\"]\n\n        result.append({\n            field: name,\n            \"revenue\": round(rev, 2),\n            \"profit\": round(pro, 2),\n            \"margin_pct\": round(pro / rev * 100, 2) if rev else 0\n        })\n\n    return result\n\n\ncategory_results = sorted(\n    format_group(categories, \"category\"),\n    key=lambda x: x[\"revenue\"],\n    reverse=True\n)\n\nmonthly_results = sorted(\n    format_group(months, \"month\"),\n    key=lambda x: x[\"month\"]\n)\n\ntop_products = sorted(\n    format_group(products, \"product\"),\n    key=lambda x: x[\"revenue\"],\n    reverse=True\n)[:5]\n\nprofit_margin = (\n    total_profit / total_revenue * 100\n    if total_revenue else 0\n)\n\nreturn [{\n    \"json\": {\n        \"project\": \"VeriPusula\",\n        \"total_revenue\": round(total_revenue, 2),\n        \"total_profit\": round(total_profit, 2),\n        \"order_count\": len(orders),\n        \"profit_margin_pct\": round(profit_margin, 2),\n        \"category_performance\": category_results,\n        \"monthly_performance\": monthly_results,\n        \"top_5_products\": top_products\n    }\n}]\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        448,
+        0
+      ],
+      "id": "1b6e5336-51cc-4ddd-9f0f-dd974ed65765",
+      "name": "Code in Python"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When Executed by Another Workflow": {
+      "main": [
+        [
+          {
+            "node": "Get row(s)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s)": {
+      "main": [
+        [
+          {
+            "node": "Code in Python",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "727f3f04-fdc7-4f39-b3dc-21bab83833af",
+  "meta": {
+    "instanceId": "4e5bd37469412800e2c290650015be2447e2fd6d6e3ace91679aced19f7d23f7"
+  },
+  "nodeGroups": [],
+  "id": "8pQt6Em1hW9NzK6w",
+  "tags": []
+}
