@@ -46,7 +46,7 @@ Aşağıdaki yapı, depo için önerilen yerleşimdir. Dashboard, ekran görünt
 | `requirements.txt` | Python bağımlılıkları |
 | `data/sales_data.csv` | Ham sentetik veri |
 | `data/clean_sales_data.csv` | Temizlenmiş veri ve hesaplanan alanlar |
-| `data/bizinsight.db` | SQLite veritabanı |
+| `data/veripusula.db` | SQLite veritabanı |
 | `sql/kpi_queries.sql` | SQLite analiz sorguları |
 | `powerbi/` | Power BI rapor dosyası |
 | `n8n/` | Ana asistan ve KPI Engine workflow JSON dosyaları |
@@ -68,7 +68,7 @@ python -m pip install "pandas<3.0"
 
 ### Dosya yolları
 
-İlk ETL sürümü, CSV ve veritabanını `etl.py` ile aynı klasörde arar/oluşturur. Yukarıdaki `data/` düzenini kullanmak için `etl.py` içindeki yol tanımlarını şu şekilde güncelleyin; mevcut `REQUIRED` listesi ve diğer kodlar aynı kalır:
+ETL, ham veriyi data/ klasöründen okur; temiz CSV ve SQLite veritabanını aynı klasörde oluşturur.
 
 ```python
 BASE = Path(__file__).resolve().parent
@@ -76,7 +76,7 @@ DATA = BASE / "data"
 DATA.mkdir(parents=True, exist_ok=True)
 INPUT = DATA / "sales_data.csv"
 OUTPUT = DATA / "clean_sales_data.csv"
-DB = DATA / "bizinsight.db"
+DB = DATA / "veripusula.db"
 ```
 
 `data/sales_data.csv` mevcutken çalıştırın:
@@ -105,7 +105,7 @@ Gelir ve maliyet satır bazında iki ondalığa yuvarlanır. İndirim satış fi
 
 ## SQL analizleri
 
-SQLite destekleyen bir uygulamada `data/bizinsight.db` dosyasını açın ve `sql/kpi_queries.sql` içindeki sorguları ayrı ayrı çalıştırın.
+SQLite destekleyen bir uygulamada `veripusula.db` dosyasını açın ve `sql/kpi_queries.sql` içindeki sorguları ayrı ayrı çalıştırın.
 
 Sorgu dosyası; genel KPI'ları, kategori ve aylık performansı, bölge ve satış kanalı analizlerini, en yüksek gelirli 10 ürünü ve 2025'in en yüksek/düşük gelirli aylarını içerir. Verileri değiştirmez.
 
@@ -132,8 +132,9 @@ API anahtarları ve şifreler depoya eklenmemelidir. Paylaşılan workflow dosya
 - Veriler sentetiktir; sonuçlar gerçek bir şirket hakkında çıkarım yapmak için kullanılamaz.
 - Dashboard ve asistan, kullanılan veri kopyalarının güncelliğine bağlıdır.
 - Asistanın sayısal yanıtları SQL veya dashboard sonuçlarıyla karşılaştırılarak doğrulanmalıdır.
+- Proje, tahminleme veya satış değişimlerinin nedenlerini kanıtlama iddiası taşımaz.
 
-- ## Proje Görselleri
+## Proje Görselleri
 
 ### Power BI Dashboard
 ![Power BI Dashboard](screenshots/dashboard.png)
@@ -142,7 +143,6 @@ API anahtarları ve şifreler depoya eklenmemelidir. Paylaşılan workflow dosya
 ![n8n İş Akışı](screenshots/n8n-workflow.png)
 
 ### AI Asistan Demo
-![AI Asistan Demo](screenshots/ai-demo1.png)
-![AI Asistan Demo](screenshots/ai-demo2.png)
-![AI Asistan Demo](screenshots/ai-demo3.png)
-- Proje, tahminleme veya satış değişimlerinin nedenlerini kanıtlama iddiası taşımaz.
+![AI Asistan Demo 1](screenshots/ai-demo1.png)
+![AI Asistan Demo 2](screenshots/ai-demo2.png)
+![AI Asistan Demo 3](screenshots/ai-demo3.png)
